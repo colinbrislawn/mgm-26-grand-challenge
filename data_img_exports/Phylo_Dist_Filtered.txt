@@ -1,0 +1,135 @@
+Domain	Phylum	Genome Count	Soi mic 454 2065487018 (MER-FS) (assembled)   &#37; 	Soi mic 454 2067725001 (MER-FS) (assembled)   &#37; 	Soi mic 454 2067725002 (MER-FS) (assembled)   &#37; 	Soi mic Con 2067725004 (MER-FS) (assembled)   &#37; 	Soi mic Pre 2070309009 (MER-FS) (assembled)   &#37; 	Soi mic asy 2088090014 (MER-FS) (assembled)   &#37; 	Soi mic asy 2088090015 (MER-FS) (assembled)   &#37; 	Soi mic gai 2228664021 (MER-FS) (assembled)   &#37; 	Soi mic gai 2228664022 (MER-FS) (assembled)   &#37; 	Soi mic gai 3300000033 (MER-FS) (assembled)   &#37; 	Soi mic gai 3300000363 (MER-FS) (assembled)   &#37; 	Soi mic gai 3300000364 (MER-FS) (assembled)   &#37; 	Soi mic gai 3300000787 (MER-FS) (assembled)   &#37; 	Soi mic gai 3300000789 (MER-FS) (assembled)   &#37; 	Soi mic Vet 3300000858 (MER-FS) (assembled)   &#37; 	Soi mic Vet 3300000890 (MER-FS) (assembled)   &#37; 	Soi mic Vet 3300000891 (MER-FS) (assembled)   &#37; 	Soi mic Vet 3300000953 (MER-FS) (assembled)   &#37; 	Soi mic Vet 3300000955 (MER-FS) (assembled)   &#37; 	Soi mic Vet 3300000956 (MER-FS) (assembled)   &#37; 
+Archaea	Aigarchaeota	8	0	0	0	0.01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Archaea	Candidatus Aenigmarchaeota	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Archaea	Candidatus Bathyarchaeota	6	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0	0	0	0	0	0	0	0	0	0	0
+Archaea	Candidatus Korarchaeota	1	0	0	0	0	0	0	0	0	0	0.01	0.02	0.01	0.02	0	0.02	0.01	0.01	0.01	0.01	0.01
+Archaea	Candidatus Micrarchaeota	26	0	0.01	0	0.01	0.01	0	0	0.01	0.01	0	0	0	0	0	0	0	0	0	0	0
+Archaea	Candidatus Parvarchaeota	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Archaea	Crenarchaeota	92	0.03	0.04	0.03	0.04	0.03	0.02	0.02	0.04	0.04	0.09	0.14	0.11	0.2	0.05	0.26	0.11	0.13	0.13	0.09	0.07
+Archaea	Diapherotrites	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Archaea	Euryarchaeota	436	0.31	0.43	0.34	0.43	0.37	0.32	0.24	0.35	0.35	0.83	0.85	0.75	1.18	0.49	1.4	0.7	0.95	0.81	0.77	0.59
+Archaea	Geoarchaeota	1	0	0	0	0	0	0	0	0	0	0	0	0	0.08	0.01	0.09	0.04	0.04	0.04	0.02	0.01
+Archaea	Nanoarchaeota	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Archaea	Thaumarchaeota	23	0.05	0.4	0.18	0.24	0.06	0.04	1.62	1.74	0.06	0.2	0.54	0.05	2.04	0.08	2.13	0.78	0.55	0.86	0.06	0.08
+Bacteria	Acetothermia	1	0	0	0	0	0	0.01	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Acidobacteria	31	5.78	4.84	4.65	7.17	5.73	11.42	6.13	5.8	9.8	3.79	6.82	11.37	8.06	6.74	2.36	4.41	7.86	6.85	8.71	4.11
+Bacteria	Actinobacteria	3193	13.03	28.54	23.59	18.1	25.78	4.01	19.91	17.86	6.6	13.18	21.84	9.1	12.37	3.06	46.69	24.15	18.01	9.73	6.79	17.6
+Bacteria	Aerophobetes	4	0.02	0.02	0.02	0.03	0.02	0.03	0.02	0.02	0.03	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Aminicenantes	33	0.05	0.06	0.05	0.07	0.06	0.06	0.04	0.07	0.07	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Aquificae	30	0.04	0.04	0.04	0.06	0.04	0.03	0.03	0.05	0.05	0.26	0.13	0.13	0.12	0.06	0.14	0.09	0.17	0.14	0.13	0.1
+Bacteria	Armatimonadetes	3	0.12	0.1	0.09	0.19	0.11	0.11	0.05	0.07	0.11	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Atribacteria	13	0.02	0.01	0.01	0.02	0.01	0.02	0.01	0.02	0.02	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	BRC1	2	0.04	0.03	0.03	0.04	0.03	0.04	0.02	0.02	0.04	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	1438	1.69	1.86	1.89	2.53	2.17	2.18	4.37	3.96	2.84	3.79	5.29	5.04	10.27	4.64	2.53	4.7	3.34	4.43	3.96	3.56
+Bacteria	Balneolaeota	3	0.03	0.02	0.03	0.03	0.03	0.04	0.04	0.04	0.03	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Caldiserica	2	0	0	0	0	0	0	0	0	0	0	0	0	0.02	0.01	0.02	0.01	0.01	0.01	0.01	0.01
+Bacteria	Calditrichaeota	1	0.02	0.02	0.02	0.04	0.03	0.03	0.03	0.03	0.03	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Calescamantes	9	0.01	0	0	0.01	0.01	0.01	0	0.01	0.01	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Candidatus Acetothermia	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Candidatus Atribacteria	2	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Candidatus Cloacimonetes	1	0	0	0	0	0	0	0	0	0	0.01	0.02	0.02	0.02	0.01	0.01	0.01	0.02	0	0	0
+Bacteria	Candidatus Marinimicrobia	2	0.01	0.01	0.01	0.02	0.01	0.01	0.01	0.02	0.01	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Candidatus Melainabacteria	1	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Candidatus Parcubacteria	1	0	0	0	0.01	0	0	0.01	0.01	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Candidatus Peregrinibacteria	2	0	0.01	0	0	0.01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Candidatus Saccharibacteria	2	0.01	0.01	0.03	0.01	0.01	0	0.01	0.13	0	0.02	0.09	0.01	0.16	0.01	0.01	0.04	0.01	0.01	0.01	0.02
+Bacteria	Chlamydiae	80	0.05	0.03	0.03	0.04	0.02	0.07	0.02	0.04	0.05	0.05	0.05	0.07	0.07	0.04	0.06	0.04	0.06	0.06	0.14	0.04
+Bacteria	Chlorobi	15	0.06	0.05	0.05	0.06	0.05	0.06	0.03	0.05	0.06	0.35	0.32	0.38	0.28	0.18	0.15	0.18	0.24	0.22	0.3	0.16
+Bacteria	Chloroflexi	53	1.48	2.17	1.87	2.45	2.04	0.91	0.83	1.89	1.18	2.51	3.98	3.07	4.05	1.7	4.39	2.28	4.19	3.09	2.35	2.72
+Bacteria	Chrysiogenetes	2	0.01	0	0.01	0.01	0.01	0.01	0	0.01	0.01	0.01	0.03	0.03	0.02	0.01	0.01	0.01	0.03	0	0	0
+Bacteria	Cloacimonetes	28	0.01	0.01	0.01	0.02	0.01	0.03	0.01	0.01	0.02	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Cyanobacteria	270	1.46	1.28	1.11	1.6	1.14	1.94	0.99	1.21	1.77	1.8	2.41	3.15	2.39	1.66	1.55	1.33	1.8	1.7	2.59	1.2
+Bacteria	Deferribacteres	7	0.02	0.01	0.01	0.02	0.01	0.01	0.01	0.02	0.02	0.03	0.08	0.09	0.06	0.03	0.05	0.05	0.09	0.07	0.07	0.05
+Bacteria	Deinococcus-Thermus	63	0.29	0.42	0.33	0.4	0.38	0.26	0.21	0.3	0.27	0.54	0.83	0.69	0.84	0.38	1.23	0.72	1.09	0.75	0.75	0.76
+Bacteria	Dictyoglomi	2	0.01	0.01	0.01	0.01	0.01	0.01	0	0.01	0.01	0.11	0.05	0.04	0.04	0.02	0.06	0.03	0.05	0.04	0.03	0.03
+Bacteria	EM3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Elusimicrobia	3	0.01	0	0	0.01	0.01	0.01	0	0.01	0.01	0.01	0.02	0.02	0.02	0.01	0.01	0.01	0.02	0.02	0.02	0.01
+Bacteria	Fervidibacteria	4	0.02	0.02	0.02	0.03	0.02	0.02	0.01	0.01	0.02	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Fibrobacteres	28	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.05	0.01	0.02	0.01	0.01	0.01	0.01	0.02	0.01	0.02	0.01
+Bacteria	Firmicutes	4349	2.01	2.61	2.18	2.72	2.42	1.56	1.26	2.04	2.03	4.47	3.85	3.48	3.97	1.92	5.43	2.95	4.98	3.57	3.45	3.17
+Bacteria	Fusobacteria	82	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.12	0.05	0.05	0.05	0.02	0.04	0.03	0.04	0.04	0.04	0.03
+Bacteria	Gemmatimonadetes	4	0.65	0.68	2.56	1.74	1.14	0.26	4.76	3.27	0.62	0.78	2.98	0.72	1.54	0.23	0.27	3.22	2.39	1.24	0.38	0.88
+Bacteria	Gracilibacteria	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Hydrogenedentes	3	0.01	0.01	0.01	0.02	0.01	0.01	0	0.01	0.01	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Ignavibacteriae	3	0.04	0.03	0.04	0.06	0.04	0.04	0.03	0.05	0.05	0	0	0	0.12	0.08	0.07	0.1	0.16	0.13	0.18	0.09
+Bacteria	Latescibacteria	4	0.03	0.03	0.03	0.04	0.03	0.03	0.02	0.03	0.04	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Lentisphaerae	2	0.01	0.01	0.01	0.01	0.01	0.01	0	0.01	0.01	0.05	0.07	0.1	0.06	0.05	0.03	0.03	0.05	0.05	0.09	0.04
+Bacteria	Marinimicrobia	15	0.02	0.02	0.02	0.02	0.02	0.03	0.01	0.02	0.02	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Microgenomates	6	0	0.01	0.01	0.01	0.01	0.01	0	0.01	0	0.01	0.01	0.01	0.01	0	0.01	0.01	0.01	0	0.01	0
+Bacteria	Nitrospinae	8	0.08	0.05	0.05	0.08	0.05	0.09	0.04	0.07	0.11	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Nitrospirae	18	0.4	0.3	0.53	0.62	0.3	0.47	2.12	1.5	0.52	0.67	1.47	0.61	3.04	0.23	0.38	1.21	2.13	1.17	0.48	0.31
+Bacteria	Omnitrophica	4	0.03	0.02	0.02	0.04	0.02	0.04	0.02	0.03	0.04	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	PER	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Parcubacteria	8	0.01	0.01	0.01	0.02	0.01	0	0.08	0.04	0.01	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Planctomycetes	52	3.24	2.68	1.72	2.95	2.71	1.57	0.61	0.97	1.78	1.38	1.92	2.86	2.3	1.94	0.98	1.15	2.2	1.9	2.76	2.28
+Bacteria	Poribacteria	1	0.01	0.01	0.01	0.02	0.01	0.01	0.01	0.01	0.02	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	9977	30.97	23.15	31.27	26.73	25.97	25.61	33.53	31.74	34.04	26.85	36.38	38.53	35.65	17.24	22.79	41.96	40.25	22.77	39.37	26.08
+Bacteria	Spirochaetes	285	0.14	0.1	0.1	0.15	0.11	0.13	0.07	0.11	0.15	0.23	0.26	0.3	0.3	0.18	0.25	0.21	0.33	0.27	0.3	0.22
+Bacteria	Synergistetes	25	0.03	0.05	0.04	0.05	0.04	0.03	0.02	0.04	0.04	0.26	0.16	0.14	0.13	0.06	0.18	0.11	0.18	0.13	0.13	0.11
+Bacteria	Tenericutes	148	0	0.01	0	0.01	0	0	0	0	0	0.01	0	0	0.01	0	0.01	0.01	0.01	0.01	0.01	0.01
+Bacteria	Thermodesulfobacteria	7	0.03	0.03	0.02	0.03	0.03	0.03	0.02	0.03	0.04	0.02	0.07	0.08	0.06	0.03	0.07	0.05	0.09	0.05	0.06	0.04
+Bacteria	Thermotogae	45	0.03	0.04	0.04	0.04	0.04	0.02	0.02	0.04	0.03	0.28	0.12	0.09	0.12	0.05	0.14	0.08	0.12	0.1	0.09	0.08
+Bacteria	Verrucomicrobia	39	9.2	1.24	1.81	2.71	2.11	24.24	2.56	2.87	9.31	2.1	3.52	11.26	4.68	4.83	0.8	3.54	3.65	3.74	20.68	2.72
+Bacteria	WS1	1	0.01	0	0	0.01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	candidate division NC10	1	0.17	0.09	0.1	0.13	0.08	0.21	0.13	0.15	0.24	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	unclassified	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eukaryota	Annelida	2	0	0	0	0	0	0	0	0.01	0	0	0	0	0.03	0.01	0.02	0.02	0.02	0.01	0.02	0.01
+Eukaryota	Apicomplexa	20	0	0	0	0	0	0	0.01	0	0	0.02	0.01	0.01	0.01	0.01	0.02	0.02	0.01	0.01	0.02	0.01
+Eukaryota	Arthropoda	21	0.02	0.02	0.02	0.02	0.02	0.01	0.03	0.05	0.01	0.16	0.1	0.06	0.27	0.04	0.09	0.17	0.07	0.06	0.08	0.06
+Eukaryota	Ascomycota	93	0.33	0.1	0.04	0.05	0.07	0.05	0.02	0.02	0.57	0.29	0.13	2	0.15	2.81	0.24	0.13	0.14	0.12	1.01	0.13
+Eukaryota	Bacillariophyta	2	0	0	0	0.01	0	0	0	0	0	0.03	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01
+Eukaryota	Basidiomycota	21	0.05	0.11	0.01	0.02	0.01	0.01	0	0.01	0.03	0.04	0.02	0.09	0.05	0.18	0.76	0.04	0.05	0.04	0.1	0.04
+Eukaryota	Blastocladiomycota	1	0	0	0	0	0	0	0	0	0	0	0	0	0.01	0	0.01	0.01	0.01	0.01	0.01	0.01
+Eukaryota	Chlorophyta	13	0.02	0.03	0.02	0.03	0.03	0.01	0.01	0.01	0.01	0.06	0.03	0.03	0.06	0.03	0.09	0.08	0.09	0.06	0.07	0.07
+Eukaryota	Chordata	9	0.02	0.02	0.02	0.03	0.02	0.01	0.01	0.01	0.01	0.07	0.04	0.05	0.1	0.05	0.1	0.08	0.07	0.06	0.09	0.06
+Eukaryota	Chytridiomycota	3	0.01	0	0	0.01	0	0	0	0	0	0	0	0	0.01	0.01	0.01	0.01	0.01	0.01	0.02	0.01
+Eukaryota	Cnidaria	2	0	0	0	0	0	0	0.02	0.01	0	0	0	0	0.06	0.01	0.01	0.04	0.01	0.01	0.02	0.01
+Eukaryota	Microsporidia	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eukaryota	Mollusca	1	0	0	0	0	0	0	0	0	0	0	0	0	0.01	0	0.01	0.01	0.01	0.01	0.01	0.01
+Eukaryota	Nematoda	1	0	0	0	0	0	0	0	0	0	0.03	0	0.01	0	0	0.01	0.01	0.01	0	0.01	0
+Eukaryota	Phaeophyceae	1	0	0	0	0	0	0	0	0	0	0	0	0	0.01	0.01	0.02	0.01	0.02	0.01	0.01	0.01
+Eukaryota	Placozoa	1	0	0	0	0	0	0	0	0	0	0	0	0	0.01	0	0	0	0	0	0	0
+Eukaryota	Porifera	1	0	0	0.01	0.01	0	0	0	0.01	0	0	0	0	0.03	0.02	0.03	0.05	0.03	0.02	0.03	0.02
+Eukaryota	Streptophyta	34	0.05	0.06	0.03	0.06	0.05	0.02	0.02	0.02	0.05	0.36	0.12	0.15	0.13	0.1	0.15	0.13	0.14	0.13	0.18	0.11
+Eukaryota	Zoopagomycota	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.01	0
+Eukaryota	unclassified	23	0.03	0.03	0.04	0.04	0.03	0.02	0.02	0.02	0.02	0.07	0.05	0.05	0.15	0.09	0.17	0.15	0.16	0.12	0.17	0.12
+GFragment:Bacteria	Actinobacteria	249	0.01	0.02	0.01	0.01	0.02	0.01	0.01	0.01	0.01	0	0	0	0	0	0	0	0	0	0	0
+GFragment:Bacteria	Bacteroidetes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GFragment:Bacteria	Cyanobacteria	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GFragment:Bacteria	Firmicutes	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GFragment:Bacteria	Proteobacteria	43	0.01	0	0.01	0.01	0.01	0	0	0	0.01	0	0	0	0	0	0	0	0	0	0	0
+GFragment:Bacteria	unclassified	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GFragment:Eukaryota	Ascomycota	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Archaea	Crenarchaeota	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Archaea	Euryarchaeota	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Actinobacteria	84	0	0	0	0	0	0	0	0	0	0.02	0.04	0.01	0.03	0.01	0.02	0.02	0.01	0	0.01	0.01
+Plasmid:Bacteria	Bacteroidetes	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Chlorobi	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Cyanobacteria	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Firmicutes	111	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Fusobacteria	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Nitrospirae	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Proteobacteria	342	0	0	0	0	0	0	0	0	0	0.04	0.06	0.07	0.04	0.02	0.02	0.02	0.02	0.02	0.04	0.01
+Plasmid:Bacteria	Spirochaetes	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Tenericutes	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Thermi	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	Thermotogae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Bacteria	unclassified	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Eukaryota	Ascomycota	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Eukaryota	Basidiomycota	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Eukaryota	Streptophyta	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmid:Eukaryota	unclassified eukaryotes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	Retro-transcribing viruses	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	Satellites	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	dsDNA viruses	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	dsDNA viruses no RNA stage	1272	0.02	0.03	0.05	0.02	0.02	0.02	0.26	0.16	0.02	0.16	0.43	0.07	0.7	0.05	0.07	0.28	0.03	0.03	0.04	0.03
+Viruses	dsRNA viruses	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	ssDNA viruses	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	ssRNA (+) viruses	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	ssRNA viruses	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	unassigned viruses	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	unclassified	51	0	0	0	0	0	0	0.03	0.01	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	unclassified archaeal viruses	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	unclassified phages	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	unclassified virophages	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viruses	unclassified viruses	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

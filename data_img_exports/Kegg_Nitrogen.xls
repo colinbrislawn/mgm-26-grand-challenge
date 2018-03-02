@@ -1,0 +1,57 @@
+Function ID	Name	Soi mic 454 2067725002 (MER-FS) (assembled)	Soi mic res 3300000569 (MER-FS) (assembled)	Soi mic asy 2088090015 (MER-FS) (assembled)	Soi mic gai 3300000363 (MER-FS) (assembled)	Soi mic gai 3300000033 (MER-FS) (assembled)	Soi mic gai 2228664021 (MER-FS) (assembled)	Soi mic gai 3300000787 (MER-FS) (assembled)	Soi mic Vet 3300000890 (MER-FS) (assembled)	Soi mic res 3300000565 (MER-FS) (assembled)	Soi mic 454 2065487018 (MER-FS) (assembled)	Soi mic asy 2088090014 (MER-FS) (assembled)	Soi mic gai 3300000364 (MER-FS) (assembled)	Soi mic gai 2228664022 (MER-FS) (assembled)	Soi mic gai 3300000789 (MER-FS) (assembled)	Soi mic Vet 3300000955 (MER-FS) (assembled)	Soi mic res 3300000551 (MER-FS) (assembled)	Soi mic Con 2067725004 (MER-FS) (assembled)	Soi mic Vet 3300000953 (MER-FS) (assembled)	Soi mic Ila 2124908045 (MER-FS) (assembled)	Soi mic Pre 2070309009 (MER-FS) (assembled)	Soi mic Vet 3300000956 (MER-FS) (assembled)	Soi mic 454 2067725001 (MER-FS) (assembled)	Soi mic Vet 3300000858 (MER-FS) (assembled)	Soi mic Pre 2067725000 (MER-FS) (assembled)	Soi mic Vet 3300000881 (MER-FS) (assembled)	Soi mic Vet 3300000891 (MER-FS) (assembled)	Soi mic Vet 3300001139 (MER-FS) (assembled)	Soi mic Sws 2067725003 (MER-FS) (assembled)	
+KO:K00260	glutamate dehydrogenase [EC:1.4.1.2] (gudB, rocG)	129	0	82	1106	853	405	124	1017	0	86	32	1056	305	186	1638	0	204	1081	364	251	11065	123	1131	82	91	1273	1047	60	
+KO:K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] (GLUD1_2, gdhA)	56	0	66	872	547	381	300	696	0	53	91	961	277	355	1810	0	164	1424	300	152	8263	59	531	62	226	1388	1803	48	
+KO:K00262	glutamate dehydrogenase (NADP+) [EC:1.4.1.4] (E1.4.1.4, gdhA)	33	0	51	308	200	166	113	410	0	16	38	190	75	53	808	0	37	250	65	40	1157	19	104	14	34	162	334	9	
+KO:K00264	glutamate synthase (NADPH/NADH) [EC:1.4.1.13 1.4.1.14] (GLT1)	13	0	1	19	151	42	2	12	0	6	0	91	50	57	111	0	30	28	16	22	285	9	25	13	3	26	47	13	
+KO:K00265	glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14] (gltB)	247	0	141	1173	1128	668	272	1382	0	175	77	1337	527	374	2710	0	418	1752	661	492	17020	217	836	188	207	2316	2156	158	
+KO:K00266	glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14] (gltD)	55	0	59	839	495	265	218	530	0	48	41	1143	260	364	1570	0	135	941	237	139	6819	56	282	57	104	939	1328	55	
+KO:K00284	glutamate synthase (ferredoxin) [EC:1.4.7.1] (E1.4.7.1)	70	0	60	510	763	311	131	447	0	46	49	784	339	249	1207	0	137	979	368	163	6342	50	328	73	132	1090	1254	44	
+KO:K00360	assimilatory nitrate reductase electron transfer subunit [EC:1.7.99.4] (nasB)	37	0	22	159	169	123	34	108	0	23	16	147	74	72	223	0	82	281	185	96	1233	36	63	33	47	230	349	33	
+KO:K00362	nitrite reductase (NADH) large subunit [EC:1.7.1.15] (nirB)	37	0	11	456	265	115	102	307	0	33	13	511	108	141	635	0	110	451	220	173	6448	58	192	52	54	544	671	27	
+KO:K00363	nitrite reductase (NADH) small subunit [EC:1.7.1.15] (nirD)	10	0	21	222	110	67	70	90	0	14	14	251	70	84	207	0	24	165	74	27	1156	11	67	10	36	154	197	8	
+KO:K00366	ferredoxin-nitrite reductase [EC:1.7.7.1] (nirA)	39	0	33	348	205	151	87	166	0	41	30	508	160	211	731	0	69	394	189	90	3362	36	216	37	31	364	361	27	
+KO:K00367	ferredoxin-nitrate reductase [EC:1.7.7.2] (narB)	2	0	0	18	24	1	4	2	0	4	2	37	7	14	45	0	1	7	10	8	76	2	3	0	0	6	15	0	
+KO:K00368	nitrite reductase (NO-forming) [EC:1.7.2.1] (nirK)	32	0	54	726	343	305	290	760	0	10	5	296	83	98	402	0	32	590	85	36	2833	11	157	14	84	608	728	19	
+KO:K00370	nitrate reductase alpha subunit [EC:1.7.99.4] (narG)	48	0	40	398	183	203	130	686	0	5	1	108	19	50	130	0	45	553	53	32	2344	7	102	22	66	555	536	12	
+KO:K00371	nitrate reductase beta subunit [EC:1.7.99.4] (narH)	15	0	25	114	75	60	35	341	0	1	4	45	10	19	54	0	27	233	27	17	1138	11	54	6	27	271	190	6	
+KO:K00372	assimilatory nitrate reductase catalytic subunit [EC:1.7.99.4] (nasA)	41	0	22	571	448	170	134	308	0	37	10	621	192	217	755	0	94	521	238	157	5116	50	178	50	55	496	783	30	
+KO:K00373	nitrate reductase delta subunit (narJ)	7	0	12	115	54	38	16	99	0	0	0	24	1	6	8	0	6	56	6	3	300	1	12	3	2	63	29	6	
+KO:K00374	nitrate reductase gamma subunit [EC:1.7.99.4] (narI)	14	0	12	119	47	62	33	143	0	1	0	29	6	9	21	0	10	82	14	13	458	1	17	8	5	110	77	6	
+KO:K00376	nitrous-oxide reductase [EC:1.7.2.4] (nosZ)	22	0	33	343	185	135	141	360	0	1	4	135	34	72	177	0	28	384	65	19	1420	6	32	9	48	278	698	11	
+KO:K00459	nitronate monooxygenase [EC:1.13.12.16] (ncd2, npd)	42	0	69	761	512	202	176	421	0	39	35	890	190	303	1086	0	56	366	134	77	3169	24	162	16	37	508	454	24	
+KO:K00531	nitrogenase delta subunit [EC:1.18.6.1] (anfG)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K00926	carbamate kinase [EC:2.7.2.2] (arcC)	18	0	18	331	185	101	56	169	0	13	5	238	51	35	247	0	53	292	96	73	2200	28	238	17	35	379	217	25	
+KO:K01455	formamidase [EC:3.5.1.49] (E3.5.1.49)	22	0	17	224	202	66	64	111	0	18	8	299	88	103	496	0	38	205	101	42	1602	21	203	12	24	262	245	9	
+KO:K01501	nitrilase [EC:3.5.5.1] (E3.5.5.1)	29	0	30	397	293	120	118	210	0	12	4	340	51	120	301	0	48	249	112	73	2169	31	198	17	31	275	255	21	
+KO:K01672	carbonic anhydrase [EC:4.2.1.1] (E4.2.1.1)	0	0	1	3	12	3	4	0	0	0	0	6	4	6	8	0	2	9	1	3	26	0	0	0	0	3	13	0	
+KO:K01673	carbonic anhydrase [EC:4.2.1.1] (cynT, can)	69	0	83	1096	575	254	383	580	0	61	84	1602	318	649	1915	0	94	720	251	157	5501	38	287	50	131	863	1252	46	
+KO:K01674	carbonic anhydrase [EC:4.2.1.1] (cah)	3	0	4	64	26	9	35	24	0	9	5	227	55	110	239	0	5	61	13	7	345	4	36	3	19	59	117	2	
+KO:K01725	cyanate lyase [EC:4.2.1.104] (cynS)	6	0	4	54	37	26	18	41	0	8	3	116	29	39	193	0	10	48	21	10	470	2	22	4	13	56	77	3	
+KO:K01915	glutamine synthetase [EC:6.3.1.2] (glnA, GLUL)	241	0	201	2393	1457	1034	645	2769	0	181	176	2777	882	696	6009	0	439	4636	987	537	34216	269	3212	210	792	5445	5392	149	
+KO:K01948	carbamoyl-phosphate synthase (ammonia) [EC:6.3.4.16] (CPS1)	1	0	0	9	1	12	2	8	0	2	1	12	7	8	33	0	5	6	0	2	18	2	3	2	3	9	24	2	
+KO:K02305	nitric oxide reductase subunit C (norC)	9	0	11	108	43	36	40	82	0	2	0	46	9	20	63	0	1	59	9	4	194	0	6	2	9	81	85	2	
+KO:K02567	periplasmic nitrate reductase NapA [EC:1.7.99.4] (napA)	11	0	11	118	176	45	24	100	0	3	3	97	48	19	214	0	25	170	55	32	1489	7	42	13	21	220	238	11	
+KO:K02568	cytochrome c-type protein NapB (napB)	1	0	3	19	8	10	8	13	0	2	0	18	8	3	22	0	3	10	9	3	179	1	6	0	3	22	22	0	
+KO:K02575	MFS transporter, NNP family, nitrate/nitrite transporter (NRT, narK, nrtP, nasA)	30	0	32	508	255	152	163	415	0	16	9	393	54	181	398	0	60	422	136	68	3539	15	104	24	57	375	508	17	
+KO:K02586	nitrogenase molybdenum-iron protein alpha chain [EC:1.18.6.1] (nifD)	0	0	0	8	5	0	3	0	0	1	0	9	2	2	9	0	0	2	0	0	17	0	3	0	0	3	3	0	
+KO:K02588	nitrogenase iron protein NifH [EC:1.18.6.1] (nifH)	0	0	0	4	3	0	0	0	0	0	0	11	2	3	7	0	0	0	1	0	12	0	0	0	0	2	1	0	
+KO:K02591	nitrogenase molybdenum-iron protein beta chain [EC:1.18.6.1] (nifK)	0	0	0	5	4	0	2	0	0	0	0	7	3	2	11	0	0	1	0	0	15	0	3	0	0	1	2	0	
+KO:K03385	nitrite reductase (cytochrome c-552) [EC:1.7.2.2] (nrfA)	2	0	5	177	82	47	42	68	0	8	1	118	35	29	222	0	23	240	56	34	1456	13	45	8	34	201	297	12	
+KO:K04561	nitric oxide reductase subunit B [EC:1.7.2.5] (norB)	54	0	53	629	288	237	208	640	0	21	25	400	113	216	618	0	54	465	83	48	2002	24	176	36	67	452	699	18	
+KO:K05601	hydroxylamine reductase [EC:1.7.99.1] (hcp)	2	0	3	26	24	17	2	29	0	0	1	17	1	7	4	0	1	14	5	4	106	1	3	0	0	22	12	0	
+KO:K10534	nitrate reductase (NAD(P)H) [EC:1.7.1.1 1.7.1.2 1.7.1.3] (NR)	0	0	0	1	1	0	0	1	0	0	0	29	1	20	28	0	1	3	0	0	9	0	0	0	0	2	3	0	
+KO:K10535	hydroxylamine dehydrogenase [EC:1.7.2.6] (hao)	3	0	5	20	11	10	8	17	0	0	0	49	9	27	42	0	1	31	0	3	46	1	0	1	5	34	45	0	
+KO:K10944	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39] (pmoA-amoA)	1	0	1	6	5	3	5	9	0	0	0	6	3	3	6	0	1	8	2	1	23	1	5	0	3	9	16	0	
+KO:K10945	methane/ammonia monooxygenase subunit B (pmoB-amoB)	1	0	2	5	4	4	3	12	0	0	0	5	1	5	4	0	1	17	2	0	10	0	0	0	4	12	18	0	
+KO:K10946	methane/ammonia monooxygenase subunit C (pmoC-amoC)	0	0	5	13	10	5	8	31	0	0	0	8	5	4	16	0	0	24	2	1	35	0	5	1	5	34	22	1	
+KO:K15371	glutamate dehydrogenase [EC:1.4.1.2] (GDH2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15576	nitrate/nitrite transport system substrate-binding protein (nrtA, nasF, cynA)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15577	nitrate/nitrite transport system permease protein (nrtB, nasE, cynB)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15578	nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-] (nrtC, nasD)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15579	nitrate/nitrite transport system ATP-binding protein (nrtD, cynD)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15864	nitrite reductase (NO-forming) / hydroxylamine reductase [EC:1.7.2.1 1.7.99.1] (nirS)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15876	cytochrome c nitrite reductase small subunit (nrfH)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15877	fungal nitric oxide reductase [EC:1.7.1.14] (CYP55)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K17877	nitrite reductase (NAD(P)H) [EC:1.7.1.4] (NIT-6)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18245	carbonic anhydrase 2 [EC:4.2.1.1] (CA2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18246	carbonic anhydrase 4 [EC:4.2.1.1] (CA4)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	

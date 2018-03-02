@@ -1,0 +1,25 @@
+Function ID	Name	Soi mic 454 2067725002 (MER-FS) (assembled)	Soi mic res 3300000569 (MER-FS) (assembled)	Soi mic asy 2088090015 (MER-FS) (assembled)	Soi mic gai 3300000363 (MER-FS) (assembled)	Soi mic gai 3300000033 (MER-FS) (assembled)	Soi mic gai 2228664021 (MER-FS) (assembled)	Soi mic gai 3300000787 (MER-FS) (assembled)	Soi mic Vet 3300000890 (MER-FS) (assembled)	Soi mic res 3300000565 (MER-FS) (assembled)	Soi mic 454 2065487018 (MER-FS) (assembled)	Soi mic asy 2088090014 (MER-FS) (assembled)	Soi mic gai 3300000364 (MER-FS) (assembled)	Soi mic gai 2228664022 (MER-FS) (assembled)	Soi mic gai 3300000789 (MER-FS) (assembled)	Soi mic Vet 3300000955 (MER-FS) (assembled)	Soi mic res 3300000551 (MER-FS) (assembled)	Soi mic Con 2067725004 (MER-FS) (assembled)	Soi mic Vet 3300000953 (MER-FS) (assembled)	Soi mic Ila 2124908045 (MER-FS) (assembled)	Soi mic Pre 2070309009 (MER-FS) (assembled)	Soi mic Vet 3300000956 (MER-FS) (assembled)	Soi mic 454 2067725001 (MER-FS) (assembled)	Soi mic Vet 3300000858 (MER-FS) (assembled)	Soi mic Pre 2067725000 (MER-FS) (assembled)	Soi mic Vet 3300000881 (MER-FS) (assembled)	Soi mic Vet 3300000891 (MER-FS) (assembled)	
+pfam00148	Nitrogenase component 1 type Oxidoreductase	0	0	0	18	10	0	3	0	0	1	0	30	5	5	18	0	3	5	3	3	0	1	10	2	0	4	
+pfam00194	Eukaryotic-type carbonic anhydrase	5	0	4	53	20	9	35	16	0	10	9	201	53	95	168	0	10	43	13	7	0	5	21	4	12	44	
+pfam00484	Carbonic anhydrase	66	0	88	764	405	195	250	366	0	71	122	1161	260	435	1201	0	106	477	199	149	0	47	189	51	97	623	
+pfam00543	Nitrogen regulatory protein P-II	43	0	85	575	312	198	168	502	0	56	105	955	269	207	1695	0	118	832	215	101	0	55	364	53	153	903	
+pfam00795	Carbon-nitrogen hydrolase	134	0	229	2260	1240	684	637	1121	0	157	262	2728	568	802	2806	0	331	1696	631	427	0	188	762	164	283	1742	
+pfam02554	Carbon starvation protein CstA	36	0	35	345	196	120	82	232	0	62	68	458	137	102	998	0	83	466	114	71	0	25	138	35	58	393	
+pfam02579	Dinitrogenase iron-molybdenum cofactor	0	0	0	2	1	0	2	0	0	0	0	6	0	0	0	0	1	0	0	0	0	1	0	0	0	1	
+pfam03139	Vanadium/alternative nitrogenase delta subunit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+pfam03206	Nitrogen fixation protein NifW	0	0	0	0	0	1	0	0	0	0	0	2	0	1	2	0	0	0	0	0	0	0	0	0	0	1	
+pfam03666	Nitrogen Permease regulator of amino acid transport activity 3	0	0	0	0	0	0	0	0	0	0	0	9	0	10	12	0	0	0	0	0	0	0	1	0	0	0	
+pfam05982	Na+-dependent bicarbonate transporter superfamily	1	0	0	23	17	3	11	6	0	0	0	11	0	6	5	0	5	1	0	1	0	0	0	0	0	1	
+pfam06218	Nitrogen permease regulator 2	0	0	0	0	0	0	0	0	0	0	0	10	0	10	11	0	0	0	0	0	0	0	1	0	0	0	
+pfam06240	Carbon monoxide dehydrogenase subunit G (CoxG)	34	0	31	638	387	185	191	268	0	26	27	570	138	216	572	0	79	470	192	94	0	46	263	23	79	528	
+pfam06967	Mo-dependent nitrogenase C-terminus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+pfam07357	Dinitrogenase reductase ADP-ribosyltransferase (DRAT)	0	0	0	1	1	0	0	0	0	0	0	3	0	1	2	0	0	0	0	0	0	0	0	0	0	0	
+pfam07573	Nitrogen regulatory protein AreA N terminus	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	
+pfam07862	Nitrogen fixation protein of unknown function	0	0	0	16	9	5	4	1	0	0	0	27	4	17	10	0	0	2	6	0	0	0	3	0	0	1	
+pfam08936	Carboxysome Shell Carbonic Anhydrase	0	0	0	5	4	1	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	
+pfam09582	Iron only nitrogenase protein AnfO (AnfO_nitrog)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+pfam10126	Uncharacterized protein, homolog of nitrogen regulatory protein PII	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+pfam10563	Cadmium carbonic anhydrase repeat	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+pfam11266	Long-chain fatty aldehyde decarbonylase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+pfam13722	5TM C-terminal transporter carbon starvation CstA	8	0	35	135	78	62	41	131	0	18	49	203	63	53	505	0	36	197	68	39	0	14	56	21	39	202	
+pfam16844	Dinitrogenase iron-molybdenum cofactor, N-terminal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	

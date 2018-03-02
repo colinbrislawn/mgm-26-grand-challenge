@@ -1,0 +1,22 @@
+Function ID	Name	Soi mic 454 2067725002 (MER-FS) (assembled)	Soi mic res 3300000569 (MER-FS) (assembled)	Soi mic asy 2088090015 (MER-FS) (assembled)	Soi mic gai 3300000363 (MER-FS) (assembled)	Soi mic gai 3300000033 (MER-FS) (assembled)	Soi mic gai 2228664021 (MER-FS) (assembled)	Soi mic gai 3300000787 (MER-FS) (assembled)	Soi mic Vet 3300000890 (MER-FS) (assembled)	Soi mic res 3300000565 (MER-FS) (assembled)	Soi mic 454 2065487018 (MER-FS) (assembled)	Soi mic asy 2088090014 (MER-FS) (assembled)	Soi mic gai 3300000364 (MER-FS) (assembled)	Soi mic gai 2228664022 (MER-FS) (assembled)	Soi mic gai 3300000789 (MER-FS) (assembled)	Soi mic Vet 3300000955 (MER-FS) (assembled)	Soi mic res 3300000551 (MER-FS) (assembled)	Soi mic Con 2067725004 (MER-FS) (assembled)	Soi mic Vet 3300000953 (MER-FS) (assembled)	Soi mic Ila 2124908045 (MER-FS) (assembled)	Soi mic Pre 2070309009 (MER-FS) (assembled)	Soi mic Vet 3300000956 (MER-FS) (assembled)	Soi mic 454 2067725001 (MER-FS) (assembled)	Soi mic Vet 3300000858 (MER-FS) (assembled)	Soi mic Pre 2067725000 (MER-FS) (assembled)	Soi mic Vet 3300000881 (MER-FS) (assembled)	Soi mic Vet 3300000891 (MER-FS) (assembled)	
+COG1203	CRISPR/Cas system-associated endonuclease/helicase Cas3	14	0	19	225	64	43	124	104	0	5	1	311	20	164	163	0	8	23	4	9	203	2	18	6	1	17	
+COG1332	CRISPR/Cas system CSM-associated protein Csm5, group 7 of RAMP superfamily	0	0	0	21	4	1	10	6	0	0	0	31	3	20	23	0	2	9	1	0	39	1	4	0	1	6	
+COG1336	CRISPR/Cas system CMR subunit Cmr4, Cas7 group, RAMP superfamily	0	0	0	15	2	0	10	4	0	0	2	37	0	22	30	0	1	10	0	1	52	0	2	0	2	6	
+COG1337	CRISPR/Cas system CSM-associated protein Csm3, group 7 of RAMP superfamily	0	0	7	28	10	7	12	23	0	1	0	93	5	49	46	0	2	11	0	1	57	0	7	1	0	5	
+COG1343	CRISPR/Cas system-associated endoribonuclease Cas2	1	0	2	47	19	11	35	15	0	5	2	77	6	45	42	0	2	6	1	2	39	0	4	2	0	5	
+COG1353	CRISPR/Cas system-associated protein Cas10, large subunit of type III CRISPR-Cas systems, contains HD superfamily nuclease domain	0	0	4	43	7	3	13	10	0	1	1	94	4	44	59	0	5	33	0	2	142	0	5	0	2	21	
+COG1367	CRISPR/Cas system CMR-associated protein Cmr1, group 7 of RAMP superfamily	0	0	0	13	0	0	5	5	0	0	2	31	1	25	23	0	2	9	1	0	47	0	3	0	0	6	
+COG1421	CRISPR/Cas system CSM-associated protein Csm2, small subunit	0	0	2	7	4	1	4	4	0	0	0	13	3	7	7	0	0	3	0	0	15	0	2	0	0	3	
+COG1468	CRISPR/Cas system-associated exonuclease Cas4, RecB family	4	0	11	197	57	23	88	52	0	4	0	190	12	113	108	0	11	46	20	12	329	5	33	7	8	61	
+COG1517	CRISPR/Cas system-associated protein Csx1, contains CARF domain	0	0	0	10	0	1	3	4	0	0	0	10	1	7	12	0	0	2	0	0	31	0	2	0	0	5	
+COG1518	CRISPR/Cas system-associated endonuclease Cas1	5	0	12	205	79	52	122	82	0	11	3	245	24	131	149	0	4	26	5	7	143	9	17	3	1	15	
+COG1567	CRISPR/Cas system CSM-associated protein Csm4, group 5 of RAMP superfamily	0	0	2	9	3	1	6	4	0	0	0	28	2	18	18	0	0	5	0	0	36	0	0	0	3	3	
+COG1583	CRISPR/Cas system endoribonuclease Cas6, RAMP superfamily	0	0	6	30	5	6	20	13	0	0	1	24	2	20	27	0	0	4	2	0	53	0	7	0	3	10	
+COG1769	CRISPR/Cas system CMR-associated protein Cmr3, group 5 of RAMP superfamily	2	0	1	11	0	0	1	3	0	0	0	34	1	20	24	0	0	10	0	1	68	1	3	0	1	8	
+COG2254	CRISPR/Cas system-associated endonuclease Cas3-HD	1	0	3	24	4	2	14	11	0	0	0	17	0	8	11	0	0	4	1	0	24	0	0	1	2	5	
+COG3337	CRISPR/Cas system CMR-associated protein Cmr5, small subunit	0	0	0	7	0	0	3	1	0	0	0	18	0	7	14	0	2	4	0	0	12	0	1	0	1	1	
+COG3512	CRISPR/Cas system-associated protein Cas2, endoribonuclease	0	0	0	16	10	4	12	3	0	0	0	7	2	2	6	0	0	1	1	0	11	0	2	0	0	1	
+COG3513	CRISPR/Cas system Type II  associated protein, contains McrA/HNH and RuvC-like nuclease domains	1	0	0	205	37	11	89	68	0	3	2	193	9	89	175	0	1	76	13	6	485	4	20	2	13	66	
+COG3649	CRISPR/Cas system type I-B associated protein Csh2, Cas7 group, RAMP superfamily	2	0	4	61	17	9	35	16	0	1	0	86	9	38	57	0	3	12	6	2	67	0	8	0	0	10	
+COG4006	CRISPR/Cas system-associated protein Csm6, COG1517 family	1	0	0	14	0	0	7	9	0	0	0	34	0	21	18	0	0	8	0	0	36	0	1	0	1	7	
+COG4343	CRISPR/Cas system-associated exonuclease Cas4, RecB family	1	0	3	27	1	0	10	11	0	0	0	27	0	14	14	0	0	8	0	0	78	0	5	0	0	11	

@@ -1,0 +1,27 @@
+taxon_oid	StateVegNum
+2067725002	IowaCorn1
+3300000569	IowaCorn2
+2088090015	IowaCorn3
+3300000363	IowaCorn4
+3300000033	IowaCorn5
+2228664021	IowaCorn6
+3300000787	IowaCorn7
+3300000890	IowaCorn8
+3300000565	IowaNative Prairie9
+2065487018	IowaNative Prairie10
+2088090014	IowaNative Prairie11
+3300000364	IowaNative Prairie12
+2228664022	IowaNative Prairie13
+3300000789	IowaNative Prairie14
+3300000955	IowaNative Prairie15
+2124908045	KansasCorn16
+3300000551	KansasCorn17
+2067725004	KansasCorn18
+3300000953	KansasCorn19
+2070309009	KansasNative Prairie20
+3300000956	KansasNative Prairie21
+2067725001	WisconsinNative Prairie22
+3300000858	WisconsinNative Prairie23
+2067725000	WisconsinRestored Praire24
+3300000881	WisconsinRestored Praire25
+3300000891	WisconsinCorn26

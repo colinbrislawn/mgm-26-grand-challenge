@@ -1,0 +1,392 @@
+Function ID	Name	Soi mic 454 2067725002 (MER-FS) (assembled)	Soi mic res 3300000569 (MER-FS) (assembled)	Soi mic asy 2088090015 (MER-FS) (assembled)	Soi mic gai 3300000363 (MER-FS) (assembled)	Soi mic gai 3300000033 (MER-FS) (assembled)	Soi mic gai 2228664021 (MER-FS) (assembled)	Soi mic gai 3300000787 (MER-FS) (assembled)	Soi mic Vet 3300000890 (MER-FS) (assembled)	Soi mic res 3300000565 (MER-FS) (assembled)	Soi mic 454 2065487018 (MER-FS) (assembled)	Soi mic asy 2088090014 (MER-FS) (assembled)	Soi mic gai 3300000364 (MER-FS) (assembled)	Soi mic gai 2228664022 (MER-FS) (assembled)	Soi mic gai 3300000789 (MER-FS) (assembled)	Soi mic Vet 3300000955 (MER-FS) (assembled)	Soi mic res 3300000551 (MER-FS) (assembled)	Soi mic Con 2067725004 (MER-FS) (assembled)	Soi mic Vet 3300000953 (MER-FS) (assembled)	Soi mic Ila 2124908045 (MER-FS) (assembled)	Soi mic Pre 2070309009 (MER-FS) (assembled)	Soi mic Vet 3300000956 (MER-FS) (assembled)	Soi mic 454 2067725001 (MER-FS) (assembled)	Soi mic Vet 3300000858 (MER-FS) (assembled)	Soi mic Pre 2067725000 (MER-FS) (assembled)	Soi mic Vet 3300000881 (MER-FS) (assembled)	Soi mic Vet 3300000891 (MER-FS) (assembled)	
+KO:K00001	alcohol dehydrogenase [EC:1.1.1.1] (E1.1.1.1, adh)	243	0	281	1333	2775	491	474	614	0	312	377	1647	602	546	2418	0	499	966	1285	575	6683	243	505	220	163	989	
+KO:K00002	alcohol dehydrogenase (NADP+) [EC:1.1.1.2] (AKR1A1, adh)	15	0	11	34	207	17	14	10	0	17	62	59	9	38	55	0	26	30	115	35	189	8	19	12	1	17	
+KO:K00004	(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.4 1.1.1.- 1.1.1.303] (BDH, butB)	2	0	2	25	58	10	10	9	0	2	1	18	4	8	19	0	4	16	16	3	137	0	15	0	1	17	
+KO:K00005	glycerol dehydrogenase [EC:1.1.1.6] (gldA)	2	0	0	7	7	2	1	0	0	1	1	29	4	16	27	0	2	7	1	2	67	2	19	3	1	9	
+KO:K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22] (UGDH, ugd)	114	0	115	1548	962	487	446	948	0	95	172	1849	458	717	2795	0	200	1687	618	197	10404	86	734	92	221	1484	
+KO:K00016	L-lactate dehydrogenase [EC:1.1.1.27] (LDH, ldh)	9	0	1	237	134	38	59	57	0	21	12	395	62	178	391	0	25	150	56	38	1085	10	93	16	10	121	
+KO:K00019	3-hydroxybutyrate dehydrogenase [EC:1.1.1.30] (E1.1.1.30, bdh)	43	0	37	580	505	209	94	323	0	46	28	715	221	138	959	0	81	424	134	88	3364	49	226	20	49	443	
+KO:K00022	3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] (HADH)	2	0	121	11	393	20	2	7	0	3	102	10	6	0	29	0	9	31	523	7	227	8	15	2	6	23	
+KO:K00023	acetoacetyl-CoA reductase [EC:1.1.1.36] (E1.1.1.36, phbB)	32	0	35	275	341	166	42	289	0	25	32	343	141	56	697	0	41	312	114	44	2207	25	150	23	59	427	
+KO:K00024	malate dehydrogenase [EC:1.1.1.37] (mdh)	85	0	74	672	219	267	172	662	0	58	90	819	219	185	1774	0	142	1084	239	150	7707	74	523	46	177	1091	
+KO:K00025	malate dehydrogenase [EC:1.1.1.37] (MDH1)	1	0	16	2	363	0	0	1	0	2	35	5	5	3	10	0	5	1	147	2	11	2	0	2	0	1	
+KO:K00026	malate dehydrogenase [EC:1.1.1.37] (MDH2)	0	0	74	0	363	0	0	0	0	0	90	30	0	17	15	0	0	2	236	0	2	0	3	0	0	0	
+KO:K00027	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38] (ME2, sfcA, maeA)	52	0	58	703	401	267	245	487	0	35	35	667	176	251	1262	0	106	829	171	102	4851	41	445	41	52	690	
+KO:K00028	malate dehydrogenase (decarboxylating) [EC:1.1.1.39] (E1.1.1.39)	5	0	0	16	15	4	5	3	0	2	0	12	4	1	13	0	13	5	12	8	121	2	3	2	0	5	
+KO:K00029	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] (E1.1.1.40, maeB)	61	0	57	805	356	294	242	716	0	73	34	1029	289	332	1937	0	120	759	270	129	6049	46	214	66	102	892	
+KO:K00043	4-hydroxybutyrate dehydrogenase [EC:1.1.1.61] (gbd)	1	0	3	38	36	4	3	7	0	2	1	23	1	1	19	0	5	12	18	8	143	7	0	1	1	24	
+KO:K00048	lactaldehyde reductase [EC:1.1.1.77] (fucO)	3	0	2	15	39	0	10	8	0	0	0	10	9	3	23	0	2	10	1	2	65	0	5	5	5	12	
+KO:K00049	glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81] (GRHPR)	0	0	4	1	37	0	1	0	0	0	0	0	0	0	0	0	0	0	2	1	4	0	0	0	0	0	
+KO:K00051	malate dehydrogenase (NADP+) [EC:1.1.1.82] (E1.1.1.82)	1	0	2	12	34	1	4	2	0	0	4	9	2	1	3	0	2	4	20	2	46	2	4	0	0	7	
+KO:K00064	D-threo-aldose 1-dehydrogenase [EC:1.1.1.122] (E1.1.1.122)	11	0	11	330	196	52	86	91	0	16	16	428	84	130	637	0	31	131	80	43	1720	19	93	13	20	193	
+KO:K00074	3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157] (paaH, hbd, fadB, mmgB)	127	0	100	1721	1027	592	422	1076	0	92	110	1771	435	494	2746	0	205	1725	491	245	11299	93	823	96	235	1718	
+KO:K00086	1,3-propanediol dehydrogenase [EC:1.1.1.202] (dhaT)	4	0	1	19	67	4	6	8	0	0	2	26	7	10	12	0	4	9	12	4	92	4	24	2	0	18	
+KO:K00100	E1.1.1.-	240	0	429	3109	5192	839	882	1310	0	224	483	3883	854	1397	5047	0	461	2167	2205	534	15319	231	862	180	288	2180	
+KO:K00101	L-lactate dehydrogenase (cytochrome) [EC:1.1.2.3] (E1.1.2.3, lldD)	75	0	57	799	448	315	187	490	0	82	75	787	279	231	1395	0	113	554	290	200	5099	74	223	59	92	691	
+KO:K00102	D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4] (dld, LDHD)	102	0	109	618	426	329	107	410	0	86	79	618	283	168	1007	0	173	638	447	262	4418	88	229	72	64	733	
+KO:K00103	L-gulonolactone oxidase [EC:1.1.3.8] (GULO)	2	0	10	134	70	3	28	66	0	1	5	163	6	41	79	0	3	73	11	11	890	2	66	1	6	72	
+KO:K00109	2-hydroxyglutarate dehydrogenase [EC:1.1.99.2] (E1.1.99.2)	7	0	5	139	98	25	29	54	0	1	5	110	19	42	102	0	10	97	24	9	496	6	79	5	10	78	
+KO:K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8] (exaA)	91	0	93	2252	2257	647	553	1345	0	70	75	2823	637	913	3277	0	187	3076	568	198	15618	72	754	109	508	3186	
+KO:K00116	malate dehydrogenase (quinone) [EC:1.1.5.4] (mqo)	4	0	10	103	159	29	57	64	0	11	27	196	52	92	448	0	12	46	66	22	612	2	15	9	3	31	
+KO:K00121	S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] (frmA, ADH5, adhC)	71	0	107	865	976	317	174	628	0	65	57	975	262	188	1452	0	153	832	423	180	7195	65	495	52	144	1097	
+KO:K00128	aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] (E1.2.1.3)	344	0	325	3034	2411	1216	626	2100	0	261	248	3244	979	922	5424	0	674	3263	1345	808	26090	336	1758	262	428	3501	
+KO:K00129	aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5] (E1.2.1.5)	6	0	14	66	114	22	20	34	0	1	12	110	9	46	71	0	9	53	33	12	341	2	11	7	1	56	
+KO:K00131	glyceraldehyde-3-phosphate dehydrogenase (NADP+) [EC:1.2.1.9] (gapN)	10	0	12	138	92	36	42	57	0	2	3	110	24	36	105	0	14	109	84	19	1034	5	73	5	20	124	
+KO:K00132	acetaldehyde dehydrogenase (acetylating) [EC:1.2.1.10] (E1.2.1.10)	2	0	1	91	49	18	31	34	0	3	3	77	16	38	67	0	5	129	48	18	724	3	27	12	25	120	
+KO:K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] (GAPDH, gapA)	75	0	109	998	549	433	258	1077	0	80	98	1034	315	182	2506	0	153	1667	331	184	10590	101	658	68	262	1736	
+KO:K00135	succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20] (gabD)	146	0	129	1768	1318	682	447	1213	0	124	122	1632	467	517	2816	0	302	1722	581	392	12388	138	852	120	247	1700	
+KO:K00138	aldehyde dehydrogenase [EC:1.2.1.-] (aldB)	0	0	4	1	152	2	1	2	0	0	2	1	0	2	1	0	0	1	29	1	9	0	0	0	1	1	
+KO:K00139	succinate-semialdehyde dehydrogenase [EC:1.2.1.24] (ALDH5A1)	0	0	1	1	66	40	0	2	0	1	0	11	33	7	11	0	1	5	1	5	23	1	2	0	1	3	
+KO:K00140	malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27] (mmsA, iolA, ALDH6A1)	66	0	53	717	489	306	131	619	0	48	26	857	200	229	1261	0	141	968	247	190	9323	76	667	60	167	1292	
+KO:K00149	aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3] (ALDH9A1)	0	0	0	0	9	4	0	1	0	0	0	2	0	0	6	0	1	5	0	0	29	0	2	0	0	3	
+KO:K00150	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59] (gap2)	4	0	5	41	45	21	30	36	0	1	1	19	9	13	21	0	3	79	5	1	84	3	29	2	14	23	
+KO:K00156	pyruvate dehydrogenase (quinone) [EC:1.2.5.1] (poxB)	45	0	53	545	353	228	163	326	0	60	47	801	300	260	1780	0	101	531	151	81	3117	19	168	18	30	332	
+KO:K00158	pyruvate oxidase [EC:1.2.3.3] (E1.2.3.3, poxL)	16	0	38	155	181	101	83	94	0	18	30	184	91	82	222	0	53	240	65	21	328	9	69	12	22	89	
+KO:K00161	pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1] (PDHA, pdhA)	128	0	121	1403	875	633	370	1180	0	111	110	1595	452	518	2728	0	209	1844	468	263	12776	97	989	90	276	2091	
+KO:K00162	pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1] (PDHB, pdhB)	112	0	128	1228	849	557	226	1148	0	110	117	1431	446	359	3088	0	249	1634	553	249	11709	116	922	103	258	1971	
+KO:K00163	pyruvate dehydrogenase E1 component [EC:1.2.4.1] (aceE)	138	0	93	1033	670	413	198	1248	0	87	50	1140	350	194	2042	0	231	1594	355	279	14976	118	781	95	218	1948	
+KO:K00166	2-oxoisovalerate dehydrogenase E1 component alpha subunit [EC:1.2.4.4] (BCKDHA, bkdA1)	35	0	11	239	247	106	41	136	0	17	9	252	71	75	333	0	48	265	132	70	2280	22	147	24	27	254	
+KO:K00167	2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:1.2.4.4] (BCKDHB, bkdA2)	53	0	27	305	387	160	67	336	0	41	43	417	132	100	621	0	82	772	197	105	4734	44	347	42	90	729	
+KO:K00169	pyruvate ferredoxin oxidoreductase alpha subunit [EC:1.2.7.1] (porA)	6	0	15	125	64	66	39	122	0	5	3	101	32	11	265	0	31	264	35	32	958	4	28	15	40	195	
+KO:K00170	pyruvate ferredoxin oxidoreductase beta subunit [EC:1.2.7.1] (porB)	9	0	13	98	53	71	40	106	0	15	3	104	30	17	235	0	23	231	35	12	754	8	29	10	32	211	
+KO:K00171	pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1] (porD)	1	0	1	24	15	18	11	28	0	2	6	22	13	1	110	0	3	69	6	0	186	0	22	1	9	35	
+KO:K00172	pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.1] (porG)	4	0	8	82	38	26	30	39	0	6	0	62	13	13	59	0	16	89	11	9	288	1	7	5	12	70	
+KO:K00174	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11] (korA, oorA, oforA)	102	0	75	952	570	374	289	987	0	84	74	1184	381	335	2847	0	196	1992	331	220	12880	89	853	114	309	1870	
+KO:K00175	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11] (korB, oorB, oforB)	52	0	46	591	340	225	197	617	0	40	42	811	207	213	1778	0	125	1159	214	119	7890	51	499	70	252	1192	
+KO:K00209	enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44] (fabV, ter)	1	0	2	2	15	3	0	1	0	2	2	5	4	0	9	0	9	8	9	6	44	3	7	0	0	5	
+KO:K00225	L-galactono-1,4-lactone dehydrogenase [EC:1.3.2.3] (GLDH)	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	2	0	1	0	0	0	
+KO:K00239	succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4] (sdhA, frdA)	152	0	160	1399	796	659	432	1706	0	154	212	1651	604	365	4832	0	321	2607	506	342	18160	141	1281	142	366	2585	
+KO:K00240	succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4] (sdhB, frdB)	72	0	89	779	438	340	233	830	0	62	136	850	290	211	2230	0	126	1165	245	138	7863	55	515	56	202	1260	
+KO:K00241	succinate dehydrogenase / fumarate reductase, cytochrome b subunit (sdhC, frdC)	29	0	85	630	318	212	290	407	0	19	78	723	167	302	1102	0	51	608	157	62	3248	24	223	28	78	476	
+KO:K00242	succinate dehydrogenase / fumarate reductase, membrane anchor subunit (sdhD, frdD)	18	0	36	218	110	88	58	198	0	5	15	180	42	37	210	0	22	130	36	19	947	10	79	5	24	180	
+KO:K00244	fumarate reductase flavoprotein subunit [EC:1.3.5.4] (frdA)	31	0	25	410	423	162	94	249	0	42	23	377	130	90	623	0	68	410	155	86	3111	33	198	36	55	469	
+KO:K00245	fumarate reductase iron-sulfur subunit [EC:1.3.5.4] (frdB)	12	0	11	123	112	74	31	100	0	20	18	179	69	33	303	0	27	188	75	28	1076	10	84	13	32	194	
+KO:K00246	fumarate reductase subunit C (frdC)	17	0	11	98	56	54	35	40	0	13	16	165	51	53	193	0	15	87	63	20	579	10	37	9	15	84	
+KO:K00247	fumarate reductase subunit D (frdD)	4	0	4	73	32	19	18	29	0	3	6	108	26	32	78	0	1	40	14	4	327	2	20	4	4	39	
+KO:K00248	butyryl-CoA dehydrogenase [EC:1.3.8.1] (ACADS, bcd)	137	0	161	1109	898	457	196	673	0	103	112	1314	431	277	1794	0	266	1355	751	312	9277	143	666	129	179	1464	
+KO:K00249	acyl-CoA dehydrogenase [EC:1.3.8.7] (ACADM, acd)	313	0	347	3059	2516	1184	547	2075	0	312	192	3415	1058	670	5054	0	605	2726	1307	807	25747	300	1453	285	392	3566	
+KO:K00260	glutamate dehydrogenase [EC:1.4.1.2] (gudB, rocG)	129	0	82	1106	853	405	124	1017	0	86	32	1056	305	186	1638	0	204	1081	364	251	11065	123	1131	82	91	1273	
+KO:K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] (GLUD1_2, gdhA)	56	0	66	872	547	381	300	696	0	53	91	961	277	355	1810	0	164	1424	300	152	8263	59	531	62	226	1388	
+KO:K00262	glutamate dehydrogenase (NADP+) [EC:1.4.1.4] (E1.4.1.4, gdhA)	33	0	51	308	200	166	113	410	0	16	38	190	75	53	808	0	37	250	65	40	1157	19	104	14	34	162	
+KO:K00264	glutamate synthase (NADPH/NADH) [EC:1.4.1.13 1.4.1.14] (GLT1)	13	0	1	19	151	42	2	12	0	6	0	91	50	57	111	0	30	28	16	22	285	9	25	13	3	26	
+KO:K00265	glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14] (gltB)	247	0	141	1173	1128	668	272	1382	0	175	77	1337	527	374	2710	0	418	1752	661	492	17020	217	836	188	207	2316	
+KO:K00266	glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14] (gltD)	55	0	59	839	495	265	218	530	0	48	41	1143	260	364	1570	0	135	941	237	139	6819	56	282	57	104	939	
+KO:K00284	glutamate synthase (ferredoxin) [EC:1.4.7.1] (E1.4.7.1)	70	0	60	510	763	311	131	447	0	46	49	784	339	249	1207	0	137	979	368	163	6342	50	328	73	132	1090	
+KO:K00360	assimilatory nitrate reductase electron transfer subunit [EC:1.7.99.4] (nasB)	37	0	22	159	169	123	34	108	0	23	16	147	74	72	223	0	82	281	185	96	1233	36	63	33	47	230	
+KO:K00362	nitrite reductase (NADH) large subunit [EC:1.7.1.15] (nirB)	37	0	11	456	265	115	102	307	0	33	13	511	108	141	635	0	110	451	220	173	6448	58	192	52	54	544	
+KO:K00363	nitrite reductase (NADH) small subunit [EC:1.7.1.15] (nirD)	10	0	21	222	110	67	70	90	0	14	14	251	70	84	207	0	24	165	74	27	1156	11	67	10	36	154	
+KO:K00366	ferredoxin-nitrite reductase [EC:1.7.7.1] (nirA)	39	0	33	348	205	151	87	166	0	41	30	508	160	211	731	0	69	394	189	90	3362	36	216	37	31	364	
+KO:K00367	ferredoxin-nitrate reductase [EC:1.7.7.2] (narB)	2	0	0	18	24	1	4	2	0	4	2	37	7	14	45	0	1	7	10	8	76	2	3	0	0	6	
+KO:K00368	nitrite reductase (NO-forming) [EC:1.7.2.1] (nirK)	32	0	54	726	343	305	290	760	0	10	5	296	83	98	402	0	32	590	85	36	2833	11	157	14	84	608	
+KO:K00370	nitrate reductase alpha subunit [EC:1.7.99.4] (narG)	48	0	40	398	183	203	130	686	0	5	1	108	19	50	130	0	45	553	53	32	2344	7	102	22	66	555	
+KO:K00371	nitrate reductase beta subunit [EC:1.7.99.4] (narH)	15	0	25	114	75	60	35	341	0	1	4	45	10	19	54	0	27	233	27	17	1138	11	54	6	27	271	
+KO:K00372	assimilatory nitrate reductase catalytic subunit [EC:1.7.99.4] (nasA)	41	0	22	571	448	170	134	308	0	37	10	621	192	217	755	0	94	521	238	157	5116	50	178	50	55	496	
+KO:K00373	nitrate reductase delta subunit (narJ)	7	0	12	115	54	38	16	99	0	0	0	24	1	6	8	0	6	56	6	3	300	1	12	3	2	63	
+KO:K00374	nitrate reductase gamma subunit [EC:1.7.99.4] (narI)	14	0	12	119	47	62	33	143	0	1	0	29	6	9	21	0	10	82	14	13	458	1	17	8	5	110	
+KO:K00376	nitrous-oxide reductase [EC:1.7.2.4] (nosZ)	22	0	33	343	185	135	141	360	0	1	4	135	34	72	177	0	28	384	65	19	1420	6	32	9	48	278	
+KO:K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4] (DLD, lpd, pdhD)	206	0	167	1977	1313	871	489	1702	0	149	140	2227	652	623	3910	0	369	2446	641	443	19135	184	1227	148	317	2510	
+KO:K00423	L-ascorbate oxidase [EC:1.10.3.3] (E1.10.3.3)	2	0	0	33	107	12	19	15	0	6	0	52	3	26	60	0	3	27	14	4	224	1	1	2	4	23	
+KO:K00434	L-ascorbate peroxidase [EC:1.11.1.11] (E1.11.1.11)	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	3	0	0	0	0	0	
+KO:K00459	nitronate monooxygenase [EC:1.13.12.16] (ncd2, npd)	42	0	69	761	512	202	176	421	0	39	35	890	190	303	1086	0	56	366	134	77	3169	24	162	16	37	508	
+KO:K00467	lactate 2-monooxygenase [EC:1.13.12.4] (E1.13.12.4)	17	0	10	78	147	35	28	40	0	6	1	87	18	21	95	0	19	52	47	34	488	9	40	2	7	63	
+KO:K00469	inositol oxygenase [EC:1.13.99.1] (MIOX)	2	0	7	106	61	29	57	46	0	3	9	212	39	118	235	0	4	97	28	9	594	0	31	6	16	53	
+KO:K00531	nitrogenase delta subunit [EC:1.18.6.1] (anfG)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K00625	phosphate acetyltransferase [EC:2.3.1.8] (E2.3.1.8, pta)	86	0	79	405	529	100	116	176	0	87	46	712	155	226	925	0	162	377	290	164	2161	74	95	77	46	384	
+KO:K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] (E2.3.1.9, atoB)	323	0	291	2973	1998	1142	604	2224	0	270	144	3251	883	724	5092	0	606	3340	1027	826	26733	294	1607	255	418	3753	
+KO:K00627	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] (DLAT, aceF, pdhC)	129	0	126	1741	1030	621	398	1322	0	97	139	1846	472	479	3382	0	217	1757	467	238	11749	95	810	91	265	1862	
+KO:K00634	phosphate butyryltransferase [EC:2.3.1.19] (ptb)	11	0	9	25	114	26	9	11	0	13	24	66	59	24	86	0	13	13	27	20	110	6	8	9	1	11	
+KO:K00656	formate C-acetyltransferase [EC:2.3.1.54] (E2.3.1.54, pflD)	16	0	24	183	111	83	53	193	0	22	39	433	191	73	1391	0	26	446	89	40	2956	12	77	20	77	417	
+KO:K00699	glucuronosyltransferase [EC:2.4.1.17] (UGT)	1	0	0	0	1	0	2	0	0	0	0	2	0	0	2	0	0	2	0	0	4	0	0	0	0	3	
+KO:K00822	beta-alanine--pyruvate transaminase [EC:2.6.1.18] (E2.6.1.18)	22	0	25	225	204	83	31	155	0	19	9	221	73	43	460	0	41	242	59	52	1872	20	51	21	35	339	
+KO:K00823	4-aminobutyrate aminotransferase [EC:2.6.1.19] (puuE)	53	0	60	623	599	237	159	358	0	45	43	668	160	190	837	0	130	902	323	147	5506	60	360	59	103	797	
+KO:K00844	hexokinase [EC:2.7.1.1] (HK)	0	0	0	5	1	1	0	2	0	0	0	54	5	42	56	0	2	5	0	0	9	0	6	0	2	11	
+KO:K00845	glucokinase [EC:2.7.1.2] (glk)	73	0	107	1814	1095	362	545	737	0	42	77	1950	312	1028	1827	0	117	1328	236	110	6345	56	572	40	92	1018	
+KO:K00850	6-phosphofructokinase 1 [EC:2.7.1.11] (pfkA, PFK)	82	0	90	1191	665	421	424	852	0	105	106	1459	346	581	2518	0	180	1449	413	198	8690	84	639	87	221	1417	
+KO:K00873	pyruvate kinase [EC:2.7.1.40] (PK, pyk)	89	0	101	1365	744	438	353	876	0	95	115	1580	350	529	2373	0	186	1327	368	231	8316	65	558	78	165	1315	
+KO:K00880	L-xylulokinase [EC:2.7.1.53] (lyxK)	0	0	0	25	29	1	9	3	0	0	1	12	0	2	7	0	3	10	11	7	169	1	4	0	1	2	
+KO:K00886	polyphosphate glucokinase [EC:2.7.1.63] (ppgK)	18	0	33	363	201	128	108	237	0	40	104	611	174	144	1305	0	28	243	115	53	2171	20	136	16	68	277	
+KO:K00918	ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147] (pfkC)	0	0	0	12	0	0	11	2	0	0	0	25	3	14	27	0	0	8	0	0	53	0	3	0	0	5	
+KO:K00925	acetate kinase [EC:2.7.2.1] (ackA)	63	0	55	969	519	238	225	512	0	87	130	1582	369	488	3217	0	93	790	225	106	4582	49	246	43	77	675	
+KO:K00926	carbamate kinase [EC:2.7.2.2] (arcC)	18	0	18	331	185	101	56	169	0	13	5	238	51	35	247	0	53	292	96	73	2200	28	238	17	35	379	
+KO:K00927	phosphoglycerate kinase [EC:2.7.2.3] (PGK, pgk)	83	0	86	940	545	339	227	713	0	62	54	978	284	239	1935	0	129	1153	235	159	7229	57	520	44	151	1046	
+KO:K00929	butyrate kinase [EC:2.7.2.7] (E2.7.2.7, buk)	0	0	0	5	3	0	2	0	0	0	1	14	3	10	9	0	0	0	0	0	1	0	0	0	0	0	
+KO:K00932	propionate kinase [EC:2.7.2.15] (tdcD)	0	0	0	0	3	0	0	1	0	2	1	0	3	0	2	0	0	0	0	0	3	0	0	0	0	0	
+KO:K01003	oxaloacetate decarboxylase [EC:4.1.1.3] (bcpA)	39	0	45	486	357	155	137	205	0	34	64	476	141	110	762	0	51	279	153	63	1839	27	113	28	38	283	
+KO:K01006	pyruvate, orthophosphate dikinase [EC:2.7.9.1] (ppdK)	119	0	74	1187	774	516	193	1102	0	131	102	1290	470	263	3814	0	266	2434	428	300	17576	134	1062	128	326	2390	
+KO:K01007	pyruvate, water dikinase [EC:2.7.9.2] (pps, ppsA)	117	0	100	1799	943	472	530	1166	0	38	22	1251	195	326	1181	0	183	1456	344	189	9705	64	747	73	154	1491	
+KO:K01026	propionate CoA-transferase [EC:2.8.3.1] (pct)	13	0	27	120	115	46	46	104	0	22	15	321	91	70	469	0	29	91	64	17	667	8	50	13	19	92	
+KO:K01027	3-oxoacid CoA-transferase [EC:2.8.3.5] (OXCT)	6	0	12	80	18	41	22	73	0	14	17	99	42	27	212	0	12	67	27	11	321	7	15	5	30	102	
+KO:K01028	3-oxoacid CoA-transferase subunit A [EC:2.8.3.5] (E2.8.3.5A, scoA)	27	0	39	230	139	123	53	254	0	20	28	272	104	70	480	0	46	252	106	43	2093	13	62	18	34	245	
+KO:K01029	3-oxoacid CoA-transferase subunit B [EC:2.8.3.5] (E2.8.3.5B, scoB)	17	0	60	220	203	116	56	258	0	29	48	311	134	88	497	0	40	277	126	39	2278	4	73	20	38	322	
+KO:K01034	acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.8 2.8.3.9] (atoD)	4	0	7	47	21	25	27	35	0	9	9	144	42	18	251	0	13	38	13	8	230	7	21	5	7	41	
+KO:K01035	acetate CoA/acetoacetate CoA-transferase beta subunit [EC:2.8.3.8 2.8.3.9] (atoA)	3	0	10	47	41	32	26	30	0	5	11	89	41	21	151	0	7	23	19	10	172	2	17	4	3	30	
+KO:K01039	glutaconate CoA-transferase, subunit A [EC:2.8.3.12] (gctA)	19	0	22	378	220	106	75	223	0	27	31	360	82	91	553	0	49	401	90	54	2652	29	227	26	74	463	
+KO:K01040	glutaconate CoA-transferase, subunit B [EC:2.8.3.12] (gctB)	18	0	16	329	170	89	73	152	0	17	23	293	57	90	443	0	30	298	84	43	1936	17	160	21	58	382	
+KO:K01053	gluconolactonase [EC:3.1.1.17] (E3.1.1.17, gnl, RGN)	75	0	62	1710	1077	357	551	666	0	87	57	2074	477	770	2793	0	170	1756	462	222	11071	104	561	75	246	1607	
+KO:K01067	acetyl-CoA hydrolase [EC:3.1.2.1] (E3.1.2.1, ACH1)	7	0	4	169	109	29	50	66	0	8	7	260	48	99	236	0	12	102	48	25	585	8	12	2	7	118	
+KO:K01069	hydroxyacylglutathione hydrolase [EC:3.1.2.6] (E3.1.2.6, gloB)	54	0	96	1272	1076	287	357	619	0	47	98	1135	190	334	1485	0	108	846	364	128	5726	46	337	47	135	915	
+KO:K01084	glucose-6-phosphatase [EC:3.1.3.9] (G6PC)	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	6	0	0	0	0	0	
+KO:K01085	glucose-1-phosphatase [EC:3.1.3.10] (agp)	0	0	0	0	0	0	0	4	0	0	0	0	0	0	5	0	0	6	0	0	43	0	1	0	1	7	
+KO:K01086	fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37] (fbp-SEBP)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K01222	6-phospho-beta-glucosidase [EC:3.2.1.86] (E3.2.1.86A, celF)	13	0	16	248	142	75	56	142	0	4	7	166	32	35	138	0	31	341	96	33	2352	15	179	8	30	286	
+KO:K01223	6-phospho-beta-glucosidase [EC:3.2.1.86] (E3.2.1.86B, bglA)	0	0	0	6	2	1	0	0	0	0	0	2	0	0	3	0	0	5	3	1	51	0	1	0	0	2	
+KO:K01455	formamidase [EC:3.5.1.49] (E3.5.1.49)	22	0	17	224	202	66	64	111	0	18	8	299	88	103	496	0	38	205	101	42	1602	21	203	12	24	262	
+KO:K01501	nitrilase [EC:3.5.5.1] (E3.5.5.1)	29	0	30	397	293	120	118	210	0	12	4	340	51	120	301	0	48	249	112	73	2169	31	198	17	31	275	
+KO:K01512	acylphosphatase [EC:3.6.1.7] (acyP)	19	0	33	438	227	103	136	163	0	12	31	468	66	130	377	0	49	263	75	42	1507	20	132	20	46	271	
+KO:K01568	pyruvate decarboxylase [EC:4.1.1.1] (E4.1.1.1, pdc)	0	0	31	7	59	19	9	6	0	2	3	59	31	42	77	0	7	17	38	4	33	4	8	1	2	9	
+KO:K01571	oxaloacetate decarboxylase, alpha subunit [EC:4.1.1.3] (oadA)	19	0	22	270	189	125	91	163	0	11	24	231	87	82	306	0	40	352	153	39	1502	24	115	17	56	360	
+KO:K01572	oxaloacetate decarboxylase, beta subunit [EC:4.1.1.3] (oadB)	0	0	1	36	10	11	29	25	0	1	3	17	6	13	17	0	3	50	11	3	76	0	8	1	1	23	
+KO:K01573	oxaloacetate decarboxylase, gamma subunit [EC:4.1.1.3] (oadG)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+KO:K01574	acetoacetate decarboxylase [EC:4.1.1.4] (adc)	10	0	9	121	70	34	40	52	0	13	20	260	84	65	513	0	17	71	41	18	681	8	64	7	13	127	
+KO:K01575	acetolactate decarboxylase [EC:4.1.1.5] (alsD, budA, aldC)	1	0	0	45	22	4	10	6	0	1	2	116	21	47	135	0	1	23	10	5	154	6	24	0	1	18	
+KO:K01578	malonyl-CoA decarboxylase [EC:4.1.1.9] (MLYCD)	10	0	12	171	86	51	37	105	0	14	5	189	41	42	291	0	22	120	31	16	1000	9	62	16	22	179	
+KO:K01580	glutamate decarboxylase [EC:4.1.1.15] (E4.1.1.15, gadB, gadA, GAD)	13	0	11	123	80	51	23	122	0	9	15	224	55	114	365	0	32	213	65	52	2492	28	280	19	26	258	
+KO:K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31] (ppc)	77	0	54	1122	628	322	275	644	0	73	33	1163	212	404	1465	0	150	1018	254	202	7226	59	353	64	82	1022	
+KO:K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32] (E4.1.1.32, pckA, PEPCK)	64	0	66	524	312	272	125	631	0	57	72	824	223	260	2005	0	93	775	158	126	6894	30	313	49	95	759	
+KO:K01610	phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49] (E4.1.1.49, pckA)	23	0	37	606	333	205	226	447	0	36	44	701	151	254	1494	0	92	998	196	71	5940	34	466	42	176	942	
+KO:K01615	glutaconyl-CoA decarboxylase [EC:4.1.1.70] (E4.1.1.70)	0	0	1	7	12	5	0	4	0	0	1	4	2	1	3	0	1	11	5	0	43	1	0	0	2	9	
+KO:K01622	fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11] (K01622)	0	0	0	49	28	18	35	38	0	0	0	20	16	11	70	0	0	80	0	0	143	0	43	0	11	26	
+KO:K01623	fructose-bisphosphate aldolase, class I [EC:4.1.2.13] (ALDO)	48	0	56	758	410	277	240	644	0	98	101	1042	290	254	3176	0	133	1139	249	122	6741	61	494	56	183	1051	
+KO:K01624	fructose-bisphosphate aldolase, class II [EC:4.1.2.13] (FBA, fbaA)	29	0	30	398	234	143	137	358	0	28	46	544	173	225	937	0	45	334	155	69	3909	18	200	24	33	335	
+KO:K01630	2-dehydro-3-deoxyglucarate aldolase [EC:4.1.2.20] (garL)	10	0	19	160	119	62	55	59	0	4	8	238	71	62	211	0	25	106	79	20	810	4	41	8	16	141	
+KO:K01638	malate synthase [EC:2.3.3.9] (E2.3.3.9, aceB, glcB)	70	0	62	804	410	348	184	758	0	43	48	828	214	229	1737	0	108	1091	216	150	8281	61	584	46	170	1169	
+KO:K01640	hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4] (E4.1.3.4, HMGCL, hmgL)	56	0	55	667	339	200	153	434	0	45	59	671	183	170	1180	0	74	562	189	108	4591	32	259	32	74	674	
+KO:K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10] (E2.3.3.10)	10	0	10	74	45	29	43	98	0	2	2	106	4	43	73	0	8	87	8	7	265	5	58	1	18	39	
+KO:K01649	2-isopropylmalate synthase [EC:2.3.3.13] (leuA)	127	0	138	1501	948	675	429	1450	0	109	75	1838	496	519	2939	0	268	2484	512	296	16421	136	1146	115	354	2647	
+KO:K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6] (E2.2.1.6L, ilvB, ilvG, ilvI)	262	0	210	4207	2571	1373	1124	2521	0	245	153	4608	1267	1321	6900	0	521	4323	1032	646	28506	240	1990	245	595	5070	
+KO:K01653	acetolactate synthase I/III small subunit [EC:2.2.1.6] (E2.2.1.6S, ilvH, ilvN)	32	0	57	370	211	183	104	338	0	25	33	465	103	131	650	0	69	505	117	58	3494	21	236	20	94	565	
+KO:K01655	homocitrate synthase [EC:2.3.3.14] (LYS21, LYS20)	1	0	1	7	13	2	1	2	0	2	0	38	3	19	27	0	1	12	11	2	65	0	7	0	3	10	
+KO:K01659	2-methylcitrate synthase [EC:2.3.3.5] (prpC)	31	0	30	131	233	73	43	196	0	31	21	179	62	73	414	0	39	155	67	35	1100	15	20	12	35	218	
+KO:K01672	carbonic anhydrase [EC:4.2.1.1] (E4.2.1.1)	0	0	1	3	12	3	4	0	0	0	0	6	4	6	8	0	2	9	1	3	26	0	0	0	0	3	
+KO:K01673	carbonic anhydrase [EC:4.2.1.1] (cynT, can)	69	0	83	1096	575	254	383	580	0	61	84	1602	318	649	1915	0	94	720	251	157	5501	38	287	50	131	863	
+KO:K01674	carbonic anhydrase [EC:4.2.1.1] (cah)	3	0	4	64	26	9	35	24	0	9	5	227	55	110	239	0	5	61	13	7	345	4	36	3	19	59	
+KO:K01676	fumarate hydratase, class I [EC:4.2.1.2] (E4.2.1.2A, fumA, fumB)	53	0	43	340	204	113	86	406	0	26	18	388	115	103	724	0	75	502	114	90	4886	32	136	30	82	626	
+KO:K01677	fumarate hydratase subunit alpha [EC:4.2.1.2] (E4.2.1.2AA, fumA)	11	0	6	50	35	21	11	46	0	12	9	33	17	12	87	0	13	90	37	18	492	11	73	6	15	88	
+KO:K01678	fumarate hydratase subunit beta [EC:4.2.1.2] (E4.2.1.2AB, fumB)	5	0	2	38	20	12	10	19	0	2	7	28	13	10	51	0	1	59	7	9	218	4	42	1	15	44	
+KO:K01679	fumarate hydratase, class II [EC:4.2.1.2] (E4.2.1.2B, fumC)	76	0	86	843	554	393	196	763	0	79	105	1195	396	246	2881	0	153	1191	286	170	8833	74	563	83	155	1214	
+KO:K01682	aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99] (acnB)	4	0	2	23	10	18	7	55	0	1	0	38	4	6	53	0	5	15	10	9	395	1	0	2	0	13	
+KO:K01689	enolase [EC:4.2.1.11] (ENO, eno)	86	0	80	982	549	393	188	988	0	85	92	1145	322	235	2540	0	168	1479	280	233	10114	74	630	79	218	1483	
+KO:K01692	enoyl-CoA hydratase [EC:4.2.1.17] (paaF, echA)	460	0	517	7193	4732	1969	1400	3331	0	503	450	8394	1942	1780	11078	0	970	4851	2040	1226	39821	441	2479	375	622	5678	
+KO:K01699	propanediol dehydratase large subunit [EC:4.2.1.28] (pduC)	4	0	8	75	98	28	24	52	0	2	19	44	21	11	88	0	8	112	23	11	900	2	52	0	16	120	
+KO:K01706	glucarate dehydratase [EC:4.2.1.40] (gudD)	13	0	11	276	148	52	131	122	0	16	15	385	49	164	382	0	34	209	71	34	1578	15	61	17	15	153	
+KO:K01707	5-dehydro-4-deoxyglucarate dehydratase [EC:4.2.1.41] (kdgD)	4	0	11	105	61	22	54	50	0	1	5	135	22	55	123	0	18	77	21	20	606	5	11	6	2	60	
+KO:K01708	galactarate dehydratase [EC:4.2.1.42] (garD)	14	0	19	70	193	32	23	35	0	20	11	135	72	60	198	0	42	60	70	39	716	11	14	18	7	85	
+KO:K01715	enoyl-CoA hydratase [EC:4.2.1.17] (crt)	41	0	75	524	1084	262	151	257	0	32	57	642	184	165	937	0	61	442	192	91	2020	30	184	20	53	363	
+KO:K01720	2-methylcitrate dehydratase [EC:4.2.1.79] (prpD)	33	0	45	584	259	156	222	528	0	44	85	693	227	291	2118	0	63	539	126	58	3019	15	80	25	84	468	
+KO:K01725	cyanate lyase [EC:4.2.1.104] (cynS)	6	0	4	54	37	26	18	41	0	8	3	116	29	39	193	0	10	48	21	10	470	2	22	4	13	56	
+KO:K01734	methylglyoxal synthase [EC:4.2.3.3] (mgsA)	1	0	1	55	23	9	22	21	0	3	3	74	16	43	76	0	5	48	29	11	325	1	17	1	6	46	
+KO:K01759	lactoylglutathione lyase [EC:4.4.1.5] (GLO1, gloA)	26	0	123	984	796	259	332	523	0	33	110	1210	211	418	1443	0	56	840	353	67	4782	35	324	23	120	726	
+KO:K01782	3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3] (fadJ)	55	0	78	561	456	243	85	544	0	60	57	669	174	150	1377	0	99	605	179	121	4853	31	153	48	85	731	
+KO:K01785	aldose 1-epimerase [EC:5.1.3.3] (galM, GALM)	16	0	39	704	438	166	238	301	0	23	27	933	179	388	942	0	46	608	221	83	3742	28	265	32	58	487	
+KO:K01792	glucose-6-phosphate 1-epimerase [EC:5.1.3.15] (E5.1.3.15)	0	0	0	104	52	16	44	54	0	0	0	189	38	116	190	0	0	52	0	0	342	0	8	0	15	48	
+KO:K01799	maleate isomerase [EC:5.2.1.1] (nicE, maiA)	7	0	5	496	250	154	170	234	0	2	12	462	95	174	563	0	13	306	46	11	1610	3	161	3	49	301	
+KO:K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1] (TPI, tpiA)	49	0	75	719	507	266	180	437	0	49	65	780	209	174	1215	0	103	732	205	117	4695	46	325	43	94	674	
+KO:K01810	glucose-6-phosphate isomerase [EC:5.3.1.9] (GPI, pgi)	130	0	148	1155	1093	460	285	979	0	192	210	1348	546	288	4465	0	278	1185	503	294	8012	128	520	93	188	1277	
+KO:K01825	3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8] (fadB)	1	0	29	30	272	22	2	20	0	5	18	54	13	12	129	0	8	49	137	6	224	3	5	1	7	37	
+KO:K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] (PGAM, gpmA)	120	0	153	2443	1429	667	710	1315	0	146	170	2780	612	818	4409	0	246	2101	560	286	13793	125	1112	99	302	1997	
+KO:K01835	phosphoglucomutase [EC:5.4.2.2] (pgm)	70	0	93	577	395	236	172	446	0	98	96	1054	375	271	2752	0	110	653	281	128	4561	48	217	44	77	666	
+KO:K01837	bisphosphoglycerate mutase [EC:5.4.2.4 5.4.2.11 3.1.3.13] (BPGM)	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+KO:K01847	methylmalonyl-CoA mutase [EC:5.4.99.2] (MUT)	74	0	43	364	376	113	90	300	0	53	45	438	164	140	895	0	139	323	153	171	4564	65	147	65	60	525	
+KO:K01848	methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2] (E5.4.99.2A, mcmA1)	127	0	91	1179	715	424	239	1041	0	76	49	1171	309	311	2137	0	254	2251	332	292	15665	110	1243	109	286	2405	
+KO:K01849	methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2] (E5.4.99.2B, mcmA2)	17	0	33	380	170	141	95	238	0	20	24	387	92	84	424	0	46	519	100	41	2624	17	266	23	71	478	
+KO:K01895	acetyl-CoA synthetase [EC:6.2.1.1] (ACSS, acs)	220	0	217	2383	1664	1027	614	2217	0	211	189	2694	829	683	5572	0	408	3492	895	464	26154	199	1784	180	472	3483	
+KO:K01896	medium-chain acyl-CoA synthetase [EC:6.2.1.2] (ACSM)	7	0	8	13	102	21	1	5	0	14	4	19	22	13	29	0	17	23	51	14	81	4	13	3	1	12	
+KO:K01899	succinyl-CoA synthetase alpha subunit [EC:6.2.1.4 6.2.1.5] (LSC1)	4	0	3	1	26	7	0	4	0	7	0	36	15	28	52	0	4	4	0	9	43	4	3	2	0	3	
+KO:K01900	succinyl-CoA synthetase beta subunit [EC:6.2.1.4 6.2.1.5] (LSC2)	5	0	0	6	34	10	1	6	0	2	1	29	28	19	162	0	5	15	6	3	76	1	8	2	5	16	
+KO:K01902	succinyl-CoA synthetase alpha subunit [EC:6.2.1.5] (sucD)	57	0	77	565	319	215	129	674	0	60	80	668	223	138	1831	0	132	890	205	135	7156	58	477	68	158	1075	
+KO:K01903	succinyl-CoA synthetase beta subunit [EC:6.2.1.5] (sucC)	76	0	86	780	494	376	143	872	0	63	105	902	283	141	2357	0	158	1360	341	159	10021	78	632	75	230	1499	
+KO:K01905	acetyl-CoA synthetase (ADP-forming) [EC:6.2.1.13] (E6.2.1.13)	10	0	7	180	210	55	50	85	0	10	3	106	47	29	150	0	19	167	60	31	607	2	49	7	28	110	
+KO:K01907	acetoacetyl-CoA synthetase [EC:6.2.1.16] (AACS, acsA)	60	0	46	631	351	240	136	391	0	34	14	602	162	199	697	0	91	612	144	138	5105	59	319	48	55	674	
+KO:K01908	propionyl-CoA synthetase [EC:6.2.1.17] (prpE)	49	0	26	302	221	154	51	253	0	43	21	384	163	89	772	0	77	448	119	100	3350	28	99	37	58	539	
+KO:K01915	glutamine synthetase [EC:6.3.1.2] (glnA, GLUL)	241	0	201	2393	1457	1034	645	2769	0	181	176	2777	882	696	6009	0	439	4636	987	537	34216	269	3212	210	792	5445	
+KO:K01946	acetyl-CoA carboxylase / biotin carboxylase 2 [EC:6.4.1.2 6.3.4.14] (ACACB)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K01948	carbamoyl-phosphate synthase (ammonia) [EC:6.3.4.16] (CPS1)	1	0	0	9	1	12	2	8	0	2	1	12	7	8	33	0	5	6	0	2	18	2	3	2	3	9	
+KO:K01958	pyruvate carboxylase [EC:6.4.1.1] (PC, pyc)	0	0	0	360	8	161	70	337	0	0	0	599	143	155	692	0	0	367	0	0	3473	0	144	0	27	434	
+KO:K01959	pyruvate carboxylase subunit A [EC:6.4.1.1] (pycA)	30	0	47	82	162	73	27	50	0	31	41	46	40	7	137	0	58	126	252	80	466	36	44	21	22	106	
+KO:K01960	pyruvate carboxylase subunit B [EC:6.4.1.1] (pycB)	51	0	37	132	426	46	46	73	0	44	31	86	34	36	126	0	115	155	161	140	746	51	70	47	28	149	
+KO:K01961	acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14] (accC)	100	0	87	1048	927	468	185	896	0	92	80	1069	336	189	2097	0	231	1617	416	287	9454	98	528	96	217	1582	
+KO:K01962	acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2] (accA)	37	0	67	537	269	205	137	429	0	35	54	650	191	174	1077	0	90	688	168	89	4332	29	201	27	100	742	
+KO:K01963	acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2] (accD)	60	0	69	578	342	265	149	498	0	41	52	649	164	171	1200	0	120	705	201	117	4840	45	244	51	124	785	
+KO:K01964	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3] (K01964)	0	0	0	8	0	0	2	6	0	0	0	14	0	4	22	0	0	16	0	0	68	0	4	0	2	14	
+KO:K01965	propionyl-CoA carboxylase alpha chain [EC:6.4.1.3] (PCCA, pccA)	52	0	21	261	221	140	35	214	0	32	9	211	99	23	477	0	66	251	93	106	2628	33	117	35	27	335	
+KO:K01966	propionyl-CoA carboxylase beta chain [EC:6.4.1.3] (PCCB, pccB)	208	0	166	656	1046	563	145	691	0	160	116	597	416	114	1262	0	355	1310	592	462	10178	213	628	164	195	1437	
+KO:K02160	acetyl-CoA carboxylase biotin carboxyl carrier protein (accB, bccP)	22	0	35	402	192	145	89	261	0	27	27	468	91	101	700	0	35	397	73	56	2375	14	137	23	67	457	
+KO:K02305	nitric oxide reductase subunit C (norC)	9	0	11	108	43	36	40	82	0	2	0	46	9	20	63	0	1	59	9	4	194	0	6	2	9	81	
+KO:K02446	fructose-1,6-bisphosphatase II [EC:3.1.3.11] (glpX)	49	0	30	430	231	177	79	368	0	41	51	473	135	99	1084	0	102	728	200	127	5653	68	489	44	101	788	
+KO:K02567	periplasmic nitrate reductase NapA [EC:1.7.99.4] (napA)	11	0	11	118	176	45	24	100	0	3	3	97	48	19	214	0	25	170	55	32	1489	7	42	13	21	220	
+KO:K02568	cytochrome c-type protein NapB (napB)	1	0	3	19	8	10	8	13	0	2	0	18	8	3	22	0	3	10	9	3	179	1	6	0	3	22	
+KO:K02575	MFS transporter, NNP family, nitrate/nitrite transporter (NRT, narK, nrtP, nasA)	30	0	32	508	255	152	163	415	0	16	9	393	54	181	398	0	60	422	136	68	3539	15	104	24	57	375	
+KO:K02586	nitrogenase molybdenum-iron protein alpha chain [EC:1.18.6.1] (nifD)	0	0	0	8	5	0	3	0	0	1	0	9	2	2	9	0	0	2	0	0	17	0	3	0	0	3	
+KO:K02588	nitrogenase iron protein NifH [EC:1.18.6.1] (nifH)	0	0	0	4	3	0	0	0	0	0	0	11	2	3	7	0	0	0	1	0	12	0	0	0	0	2	
+KO:K02591	nitrogenase molybdenum-iron protein beta chain [EC:1.18.6.1] (nifK)	0	0	0	5	4	0	2	0	0	0	0	7	3	2	11	0	0	1	0	0	15	0	3	0	0	1	
+KO:K02594	homocitrate synthase NifV [EC:2.3.3.14] (nifV)	1	0	1	24	40	17	5	17	0	3	0	28	18	5	25	0	2	31	9	11	299	1	37	4	8	32	
+KO:K02749	PTS system, arbutin-like IIB component [EC:2.7.1.69] (PTS-Arb-EIIB, glvB)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K02750	PTS system, arbutin-like IIC component (PTS-Arb-EIIC, glvC)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	
+KO:K02752	PTS system, arbutin-, cellobiose-, and salicin-specific IIB component [EC:2.7.1.69] (PTS-Asc-EIIB, ascF)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K02753	PTS system, arbutin-, cellobiose-, and salicin-specific IIC component (PTS-Asc-EIIC, ascF)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+KO:K02777	PTS system, glucose-specific IIA component [EC:2.7.1.69] (PTS-Glc-EIIA, crr)	1	0	4	4	17	5	3	8	0	3	0	2	3	1	15	0	2	6	9	2	84	2	7	0	0	8	
+KO:K02778	PTS system, glucose-specific IIB component [EC:2.7.1.69] (PTS-Glc-EIIB, ptsG)	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	
+KO:K02779	PTS system, glucose-specific IIC component (PTS-Glc-EIIC, ptsG)	2	0	0	62	44	23	12	15	0	4	6	99	20	18	274	0	5	43	21	8	486	0	19	3	6	51	
+KO:K02790	PTS system, maltose and glucose-specific IIB component [EC:2.7.1.69] (PTS-Mal-EIIB, malX)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K02791	PTS system, maltose and glucose-specific IIC component (PTS-Mal-EIIC, malX)	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0	0	0	0	4	0	0	0	0	0	
+KO:K02821	PTS system, ascorbate-specific IIA component [EC:2.7.1.69] (PTS-Ula-EIIA, ulaC, sgaA)	3	0	14	53	20	26	14	65	0	4	0	28	3	6	22	0	7	21	7	7	192	0	0	2	4	41	
+KO:K02822	PTS system, ascorbate-specific IIB component [EC:2.7.1.69] (PTS-Ula-EIIB, ulaB, sgaB)	0	0	0	7	1	2	2	1	0	0	0	0	0	0	0	0	0	2	1	1	9	0	0	0	0	3	
+KO:K03077	L-ribulose-5-phosphate 4-epimerase [EC:5.1.3.4] (ulaF, sgaE)	4	0	5	14	20	11	8	11	0	2	5	53	15	40	56	0	1	17	14	3	72	1	0	0	2	8	
+KO:K03078	3-dehydro-L-gulonate-6-phosphate decarboxylase [EC:4.1.1.85] (ulaD, sgaH)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K03079	L-ribulose-5-phosphate 3-epimerase [EC:5.1.3.22] (ulaE, sgaU)	0	0	0	4	1	0	2	0	0	0	0	5	1	1	1	0	0	6	0	0	11	0	1	0	0	1	
+KO:K03103	multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase [EC:3.1.3.62 3.1.3.80] (MINPP1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K03366	meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.- 1.1.1.76 1.1.1.304] (butA, budC)	15	0	13	180	192	81	44	75	0	8	13	178	65	55	230	0	13	144	59	16	576	5	48	11	12	113	
+KO:K03385	nitrite reductase (cytochrome c-552) [EC:1.7.2.2] (nrfA)	2	0	5	177	82	47	42	68	0	8	1	118	35	29	222	0	23	240	56	34	1456	13	45	8	34	201	
+KO:K03416	methylmalonyl-CoA carboxyltransferase 5S subunit [EC:2.1.3.1] (E2.1.3.1-5S)	0	0	0	4	22	0	0	1	0	1	0	14	1	0	16	0	6	5	3	9	87	5	3	1	0	3	
+KO:K03417	methylisocitrate lyase [EC:4.1.3.30] (prpB)	31	0	53	360	489	133	113	267	0	23	76	468	130	134	790	0	52	302	159	38	1619	11	71	29	44	270	
+KO:K03475	PTS system, ascorbate-specific IIC component (PTS-Ula-EIIC, ulaA, sgaT)	0	0	1	8	8	3	1	12	0	0	0	0	0	0	2	0	1	5	2	0	11	0	0	0	0	8	
+KO:K03476	L-ascorbate 6-phosphate lactonase [EC:3.1.1.-] (ulaG)	0	0	0	15	6	3	11	6	0	0	0	19	0	9	9	0	0	3	1	1	25	0	0	0	0	3	
+KO:K03737	pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-] (por, nifJ)	61	0	21	825	487	240	229	394	0	102	72	1356	389	416	2862	0	197	1689	241	115	5844	40	174	69	188	1156	
+KO:K03777	D-lactate dehydrogenase [EC:1.1.1.28] (dld)	5	0	9	76	142	35	20	50	0	2	6	58	21	32	65	0	8	32	28	14	234	1	18	3	3	26	
+KO:K03778	D-lactate dehydrogenase [EC:1.1.1.28] (ldhA)	8	0	6	173	131	27	64	57	0	16	27	269	73	96	682	0	15	107	63	15	878	5	37	5	19	73	
+KO:K03821	polyhydroxyalkanoate synthase [EC:2.3.1.-] (phbC, phaC)	40	0	58	976	599	351	295	665	0	82	72	1509	458	419	3149	0	118	952	335	139	7317	64	655	40	100	1102	
+KO:K03841	fructose-1,6-bisphosphatase I [EC:3.1.3.11] (FBP, fbp)	29	0	40	218	107	89	98	263	0	11	9	288	59	153	286	0	21	236	75	25	1228	13	42	9	28	252	
+KO:K04020	phosphotransacetylase (eutD)	2	0	1	4	17	2	1	0	0	1	0	0	0	0	1	0	4	5	1	1	13	0	0	0	1	2	
+KO:K04021	aldehyde dehydrogenase (eutE)	1	0	2	41	24	8	10	11	0	1	2	104	8	48	97	0	3	46	21	4	259	0	3	5	1	34	
+KO:K04022	alcohol dehydrogenase (eutG)	0	0	0	0	7	0	0	0	0	0	0	2	0	0	2	0	0	1	1	1	11	0	0	0	0	0	
+KO:K04041	fructose-1,6-bisphosphatase III [EC:3.1.3.11] (fbp3)	1	0	0	23	14	4	6	4	0	3	3	103	31	59	159	0	8	10	2	2	68	0	13	5	3	4	
+KO:K04072	acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1] (adhE)	2	0	5	100	148	24	15	51	0	5	0	131	25	60	129	0	18	161	37	23	1027	1	34	10	13	123	
+KO:K04073	acetaldehyde dehydrogenase [EC:1.2.1.10] (mhpF)	5	0	17	92	40	33	14	56	0	2	0	83	13	11	90	0	13	35	22	23	644	2	29	4	6	49	
+KO:K04561	nitric oxide reductase subunit B [EC:1.7.2.5] (norB)	54	0	53	629	288	237	208	640	0	21	25	400	113	216	618	0	54	465	83	48	2002	24	176	36	67	452	
+KO:K05344	glucose-1-phosphate phosphodismutase [EC:2.7.1.41] (E2.7.1.41)	0	0	0	1	11	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	
+KO:K05523	molecular chaperone Hsp31 and glyoxalase 3 [EC:4.2.1.130] (hchA)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	1	
+KO:K05601	hydroxylamine reductase [EC:1.7.99.1] (hcp)	2	0	3	26	24	17	2	29	0	0	1	17	1	7	4	0	1	14	5	4	106	1	3	0	0	22	
+KO:K05605	3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] (HIBCH)	0	0	0	10	28	3	2	2	0	0	2	3	7	3	14	0	2	3	5	0	27	1	3	2	0	8	
+KO:K05606	methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1] (MCEE, epi)	3	0	25	160	151	43	43	91	0	6	22	188	30	60	199	0	19	127	83	17	1065	7	78	11	15	136	
+KO:K05973	poly(3-hydroxybutyrate) depolymerase [EC:3.1.1.75] (E3.1.1.75, phaZ)	19	0	26	211	159	105	78	210	0	15	19	336	61	102	479	0	36	207	73	49	1589	11	49	8	31	285	
+KO:K06859	glucose-6-phosphate isomerase, archaeal [EC:5.3.1.9] (pgi1)	0	0	0	15	12	0	9	1	0	0	2	50	13	40	52	0	2	6	4	3	65	1	6	0	0	4	
+KO:K07246	tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase [EC:1.1.1.93 4.1.1.73 1.1.1.83] (ttuC, dmlA)	26	0	22	386	212	163	52	249	0	28	13	365	86	66	698	0	53	325	84	73	3052	18	120	31	68	486	
+KO:K07248	lactaldehyde dehydrogenase / glycolaldehyde dehydrogenase [EC:1.2.1.22 1.2.1.21] (aldA)	3	0	0	33	62	12	11	7	0	2	2	37	11	19	51	0	3	19	29	6	152	0	15	2	2	17	
+KO:K07250	4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22] (gabT)	40	0	34	450	500	187	68	290	0	38	19	626	171	186	693	0	81	579	182	114	4220	48	368	40	80	660	
+KO:K07511	enoyl-CoA hydratase [EC:4.2.1.17] (ECHS1)	0	0	0	5	121	13	0	3	0	0	0	7	12	3	9	0	3	4	1	7	18	1	1	1	4	8	
+KO:K07514	enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8] (EHHADH)	2	0	0	0	0	6	0	7	0	0	0	6	5	2	15	0	4	11	0	1	67	0	2	2	2	9	
+KO:K07515	enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211] (HADHA)	3	0	0	7	18	9	4	8	0	5	0	6	8	8	56	0	4	23	3	1	55	0	0	1	4	7	
+KO:K07516	3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] (fadN)	77	0	79	1136	601	322	239	829	0	69	27	1347	236	380	1658	0	185	1224	308	195	7497	59	269	67	179	1222	
+KO:K07518	hydroxybutyrate-dimer hydrolase [EC:3.1.1.22] (E3.1.1.22)	1	0	1	37	15	15	6	54	0	6	1	89	5	22	71	0	1	24	8	6	244	1	13	6	5	31	
+KO:K08074	ADP-dependent glucokinase [EC:2.7.1.147] (ADPGK)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K08092	3-dehydro-L-gulonate 2-dehydrogenase [EC:1.1.1.130] (dlgD)	3	0	2	46	26	7	25	16	0	1	1	80	12	45	56	0	3	29	17	6	208	1	11	1	3	22	
+KO:K08232	monodehydroascorbate reductase (NADH) [EC:1.6.5.4] (E1.6.5.4)	0	0	0	6	14	0	0	3	0	0	0	7	0	7	24	0	0	4	0	0	13	0	0	0	0	3	
+KO:K08318	4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase [EC:1.1.1.61 1.1.1.373] (yihU)	0	0	1	30	33	9	5	11	0	1	1	34	10	6	35	0	3	16	3	6	125	1	6	2	4	19	
+KO:K08324	succinate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.24] (sad)	3	0	0	15	43	5	7	2	0	0	5	24	12	15	70	0	7	3	5	1	22	1	2	3	0	5	
+KO:K08325	NADP-dependent alcohol dehydrogenase [EC:1.1.-.-] (yqhD)	0	0	0	5	0	0	2	0	0	0	0	5	2	1	4	0	0	1	0	0	20	0	0	0	0	0	
+KO:K09699	2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase) [EC:2.3.1.168] (DBT, bkdB)	23	0	7	161	157	79	28	110	0	12	6	172	46	33	217	0	36	181	72	43	1287	17	100	16	16	206	
+KO:K10046	GDP-D-mannose 3', 5'-epimerase [EC:5.1.3.18 5.1.3.-] (GME)	1	0	0	20	56	2	13	8	0	0	3	33	7	26	19	0	1	38	15	1	55	0	4	0	2	9	
+KO:K10047	inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase [EC:3.1.3.25 3.1.3.93] (VTC4)	0	0	0	7	30	2	4	1	0	0	0	2	0	0	4	0	0	2	1	1	30	1	1	1	0	3	
+KO:K10534	nitrate reductase (NAD(P)H) [EC:1.7.1.1 1.7.1.2 1.7.1.3] (NR)	0	0	0	1	1	0	0	1	0	0	0	29	1	20	28	0	1	3	0	0	9	0	0	0	0	2	
+KO:K10535	hydroxylamine dehydrogenase [EC:1.7.2.6] (hao)	3	0	5	20	11	10	8	17	0	0	0	49	9	27	42	0	1	31	0	3	46	1	0	1	5	34	
+KO:K10705	glyceraldehyde-3-phosphate dehydrogenase, spermatogenic [EC:1.2.1.12] (GAPDHS)	0	0	0	0	0	2	0	0	0	0	0	0	0	0	4	0	0	2	0	0	4	0	0	0	0	0	
+KO:K10944	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39] (pmoA-amoA)	1	0	1	6	5	3	5	9	0	0	0	6	3	3	6	0	1	8	2	1	23	1	5	0	3	9	
+KO:K10945	methane/ammonia monooxygenase subunit B (pmoB-amoB)	1	0	2	5	4	4	3	12	0	0	0	5	1	5	4	0	1	17	2	0	10	0	0	0	4	12	
+KO:K10946	methane/ammonia monooxygenase subunit C (pmoC-amoC)	0	0	5	13	10	5	8	31	0	0	0	8	5	4	16	0	0	24	2	1	35	0	5	1	5	34	
+KO:K10977	methanogen homocitrate synthase [EC:2.3.3.14 2.3.3.-] (aksA)	0	0	2	15	22	4	5	7	0	1	0	16	11	8	22	0	3	27	20	3	134	1	12	0	3	23	
+KO:K11258	acetolactate synthase II small subunit [EC:2.2.1.6] (ilvM)	0	0	0	1	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	8	0	0	0	0	1	
+KO:K11262	acetyl-CoA carboxylase / biotin carboxylase 1 [EC:6.4.1.2 6.3.4.14] (ACACA)	0	0	0	0	1	4	0	0	0	0	0	58	5	56	78	0	0	2	0	0	9	0	9	0	0	0	
+KO:K11263	acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14] (bccA)	39	0	25	429	351	221	28	358	0	13	10	219	61	18	290	0	49	398	104	73	4744	35	443	21	51	491	
+KO:K11264	methylmalonyl-CoA decarboxylase [EC:4.1.1.41] (mmcD)	1	0	0	16	21	2	11	5	0	2	2	56	8	21	89	0	0	12	1	2	31	1	0	0	2	11	
+KO:K11381	2-oxoisovalerate dehydrogenase E1 component [EC:1.2.4.4] (bkdA)	85	0	86	1023	617	431	292	912	0	50	62	912	254	319	2029	0	162	1138	283	146	6801	58	339	69	176	1103	
+KO:K11389	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) [EC:1.2.7.6] (gapor)	0	0	0	3	3	0	3	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	0	0	0	0	
+KO:K11532	fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37] (glpX-SEBP)	3	0	1	6	26	10	5	4	0	1	2	11	13	8	14	0	8	29	18	11	69	3	5	4	0	6	
+KO:K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13] (fbaB)	0	0	7	3	16	1	1	0	0	0	0	1	0	1	0	0	0	0	2	0	0	0	1	0	0	1	
+KO:K11942	methylmalonyl-CoA mutase [EC:5.4.99.2] (E5.4.99.2)	29	0	35	276	158	124	116	660	0	26	58	428	126	158	1312	0	41	547	121	58	4093	20	90	23	104	646	
+KO:K12406	pyruvate kinase isozymes R/L [EC:2.7.1.40] (PKLR)	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	
+KO:K12407	glucokinase [EC:2.7.1.2] (GCK)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K12447	UDP-sugar pyrophosphorylase [EC:2.7.7.64] (USP)	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	5	0	1	0	0	0	
+KO:K12972	glyoxylate/hydroxypyruvate reductase A [EC:1.1.1.79 1.1.1.81] (ghrA)	11	0	17	197	120	51	44	80	0	13	7	239	51	49	244	0	21	88	39	27	974	19	35	5	12	131	
+KO:K13524	4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22] (ABAT)	0	0	0	6	4	3	1	3	0	0	0	17	3	11	25	0	2	18	0	2	80	1	0	1	4	15	
+KO:K13788	phosphate acetyltransferase [EC:2.3.1.8] (pta)	0	0	0	127	76	55	32	113	0	0	0	117	30	72	194	0	0	94	0	0	966	0	127	0	4	74	
+KO:K13810	transaldolase / glucose-6-phosphate isomerase [EC:2.2.1.2 5.3.1.9] (tal-pgi)	0	0	0	770	440	276	201	349	0	0	0	730	177	205	1028	0	0	790	0	0	4192	0	363	0	80	693	
+KO:K13873	L-arabinose 1-dehydrogenase [EC:1.1.1.376] (araA)	0	0	0	7	5	1	1	0	0	0	0	4	4	2	7	0	0	5	0	0	29	0	0	0	0	1	
+KO:K13874	L-arabinonolactonase [EC:3.1.1.15] (K13874, araB)	0	0	0	23	6	7	7	10	0	0	0	29	4	16	21	0	0	12	0	0	72	0	0	0	1	15	
+KO:K13875	L-arabonate dehydrase [EC:4.2.1.25] (K13875, araC)	0	0	0	9	20	9	2	3	0	0	0	21	17	6	35	0	0	23	0	0	107	0	1	0	2	14	
+KO:K13876	2-keto-3-deoxy-L-arabinonate dehydratase [EC:4.2.1.43] (K13876, araD)	0	0	0	6	14	10	4	4	0	0	0	4	3	1	3	0	0	4	0	0	43	0	1	0	1	3	
+KO:K13877	2,5-dioxopentanoate dehydrogenase [EC:1.2.1.26] (K13877, araE)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K13919	propanediol dehydratase medium subunit [EC:4.2.1.28] (pduD)	0	0	0	7	6	6	2	3	0	0	0	3	3	1	10	0	0	21	0	0	124	0	10	0	2	21	
+KO:K13920	propanediol dehydratase small subunit [EC:4.2.1.28] (pduE)	0	0	0	39	17	7	7	9	0	0	0	22	9	6	15	0	0	25	0	0	195	0	7	0	3	31	
+KO:K13921	1-propanol dehydrogenase (pduQ)	0	0	0	0	1	0	0	3	0	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	1	0	
+KO:K13922	propionaldehyde dehydrogenase [EC:1.2.1.87] (pduP)	0	0	0	4	6	0	0	0	0	0	0	7	2	1	6	0	0	12	0	0	31	0	4	0	2	8	
+KO:K13923	phosphate propanoyltransferase [EC:2.3.1.222] (pduL)	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	
+KO:K13951	alcohol dehydrogenase 1/7 [EC:1.1.1.1] (ADH1_7)	0	0	0	3	0	3	0	0	0	0	0	0	3	0	18	0	0	5	0	0	10	0	0	0	2	4	
+KO:K13952	alcohol dehydrogenase 6 [EC:1.1.1.1] (ADH6)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1] (adhP)	0	0	0	1338	748	505	486	802	0	0	0	1905	554	620	3326	0	0	1137	0	0	5937	0	691	0	158	1012	
+KO:K13954	alcohol dehydrogenase [EC:1.1.1.1] (yiaY)	0	0	0	209	44	33	54	56	0	0	0	212	36	101	171	0	0	147	0	0	798	0	45	0	15	118	
+KO:K13980	alcohol dehydrogenase 4 [EC:1.1.1.1] (ADH4)	0	0	0	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K14028	methanol dehydrogenase (cytochrome c) subunit 1 [EC:1.1.2.7] (mdh1, mxaF)	0	0	0	19	25	13	9	21	0	0	0	18	5	10	35	0	0	31	0	0	113	0	9	0	6	29	
+KO:K14029	methanol dehydrogenase (cytochrome c) subunit 2 [EC:1.1.2.7] (mdh2, mxaI)	0	0	0	6	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	
+KO:K14085	aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.31 1.2.1.8 1.2.1.3] (ALDH7A1)	0	0	0	5	20	11	2	8	0	0	0	25	10	15	59	0	0	5	0	0	36	0	5	0	1	2	
+KO:K14190	GDP-L-galactose phosphorylase [EC:2.7.7.69] (VTC2_5)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K14268	5-aminovalerate/4-aminobutyrate aminotransferase [EC:2.6.1.48 2.6.1.19] (davT, gabT)	0	0	0	6	39	0	0	3	0	0	0	8	9	0	15	0	0	8	0	0	47	0	2	0	2	5	
+KO:K14468	malonyl-CoA reductase / 3-hydroxypropionate dehydrogenase (NADP+) [EC:1.2.1.75 1.1.1.298] (mcr)	0	0	0	0	0	3	0	1	0	0	0	3	2	0	1	0	0	2	0	0	6	0	1	0	0	1	
+KO:K14534	4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3] (abfD)	0	0	0	72	40	32	50	55	0	0	0	49	10	18	50	0	0	99	0	0	246	0	64	0	27	57	
+KO:K15024	putative phosphotransacetylase [EC:2.3.1.8] (K15024)	0	0	0	4	0	0	2	5	0	0	0	3	0	0	23	0	0	8	0	0	47	0	3	0	0	7	
+KO:K15036	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3] (K15036)	0	0	0	4	0	0	2	1	0	0	0	1	0	1	1	0	0	4	0	0	20	0	1	0	2	5	
+KO:K15037	biotin carboxyl carrier protein (K15037)	0	0	0	2	0	0	3	3	0	0	0	3	0	0	3	0	0	5	0	0	12	0	0	0	2	6	
+KO:K15371	glutamate dehydrogenase [EC:1.4.1.2] (GDH2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15576	nitrate/nitrite transport system substrate-binding protein (nrtA, nasF, cynA)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15577	nitrate/nitrite transport system permease protein (nrtB, nasE, cynB)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15578	nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-] (nrtC, nasD)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15579	nitrate/nitrite transport system ATP-binding protein (nrtD, cynD)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15633	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12] (gpmI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15634	probable phosphoglycerate mutase [EC:5.4.2.12] (gpmB)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12] (apgM)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] (pmm-pgm)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15779	phosphoglucomutase / phosphopentomutase [EC:5.4.2.2 5.4.2.7] (PGM2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15864	nitrite reductase (NO-forming) / hydroxylamine reductase [EC:1.7.2.1 1.7.99.1] (nirS)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15876	cytochrome c nitrite reductase small subunit (nrfH)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15877	fungal nitric oxide reductase [EC:1.7.1.14] (CYP55)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K15916	glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8] (pgi-pmi)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K16190	glucuronokinase [EC:2.7.1.43] (GLCAK)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K16305	fructose-bisphosphate aldolase / 6-deoxy-5-ketofructose 1-phosphate synthase [EC:4.1.2.13 2.2.1.11] (K16305)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10] (K16306)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K16370	6-phosphofructokinase 2 [EC:2.7.1.11] (pfkB)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K16871	4-aminobutyrate---pyruvate transaminase [EC:2.6.1.96] (POP2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K17489	methylmalonyl-CoA carboxyltransferase 12S subunit [EC:2.1.3.1] (E2.1.3.1-12S)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K17490	methylmalonyl-CoA carboxyltransferase 1.3S subunit [EC:2.1.3.1] (E2.1.3.1-1.3S)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K17741	NADPH-dependent methylglyoxal reductase [EC:1.1.1.283] (GRE2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K17744	L-galactose dehydrogenase [EC:1.1.1.316] (GalDH)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K17761	succinate-semialdehyde dehydrogenase, mitochondrial [EC:1.2.1.24] (SSADH)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K17829	crotonyl-CoA reductase [EC:1.3.1.86] (ccrA)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K17865	3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55] (croR)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K17877	nitrite reductase (NAD(P)H) [EC:1.7.1.4] (NIT-6)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18009	meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.- 1.1.1.76 1.1.1.304] (budC)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18118	succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18] (aarC, cat1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18119	succinate-semialdehyde dehydrogenase [EC:1.2.1.76] (K18119, sucD)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18120	4-hydroxybutyrate dehydrogenase [EC:1.1.1.61] (4hbD, abfH)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18121	glyoxylate/succinic semialdehyde reductase [EC:1.1.1.79 1.1.1.-] (GLYR)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18122	4-hydroxybutyrate CoA-transferase [EC:2.8.3.-] (cat2, abfT)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18223	propane monooxygenase large subunit [EC:1.14.13.-] (prmA)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18224	propane monooxygenase small subunit [EC:1.14.13.-] (prmC)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18225	propane monooxygenase reductase subunit [EC:1.18.1.-] (prmB)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18226	propane monooxygenase coupling protein (prmD)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18245	carbonic anhydrase 2 [EC:4.2.1.1] (CA2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18246	carbonic anhydrase 4 [EC:4.2.1.1] (CA4)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18366	acetaldehyde/propanal dehydrogenase [EC:1.2.1.10 1.2.1.87] (bphJ, xylQ, nahO, tesF)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18369	alcohol dehydrogenase [EC:1.1.1.-] (adh2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18370	alcohol dehydrogenase [EC:1.1.1.-] (adh3)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18371	acetone monooxygenase [EC:1.14.13.-] (acmA)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18372	methyl acetate hydrolase [EC:3.1.1.-] (acmB)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18382	NAD+-dependent secondary alcohol dehydrogenase Adh1 [EC:1.1.1.-] (adh1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18426	ethylmalonyl-CoA/methylmalonyl-CoA decarboxylase [EC:4.1.1.94 4.1.1.41] (ECHDC1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18471	methylglyoxal reductase [EC:1.1.1.-] (ydjG)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18472	acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit [EC:6.4.1.2 6.4.1.3] (accD6)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18649	inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase [EC:3.1.3.25 3.1.3.93 3.1.3.15] (IMPL2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18857	alcohol dehydrogenase class-P [EC:1.1.1.1] (ADH1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18859	succinate dehydrogenase / fumarate reductase, subunit D (sdhD, frdD)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18860	putative succinate dehydrogenase / fumarate reductase, subunit D (sdhD, frdD)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18881	D-lactate dehydratase [EC:4.2.1.130] (DJ1D)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18978	glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+] [EC:1.2.1.90] (gapN)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18981	uronate dehydrogenase [EC:1.1.1.203] (udh)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18982	D-galactarolactone isomerase [EC:5.5.1.-] (gli)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K18983	D-galactarolactone cycloisomerase [EC:5.5.1.-] (gci)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K19266	lactaldehyde dehydrogenase [EC:1.2.1.22] (E1.2.1.22)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K19312	acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit [EC:6.4.1.2 6.4.1.3] (K19312)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K19588	2,5-dioxopentanoate dehydrogenase [EC:1.2.1.26] (dopDH)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K19642	D-galacturonate reductase [EC:1.1.1.365] (GALUR)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K19660	L-arabinose 1-dehydrogenase [NAD(P)+] [EC:1.1.1.376] (araDH)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K19697	propionate kinase [EC:2.7.2.15] (pduW)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K19709	acetate CoA-transferase [EC:2.8.3.8] (ydiF)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KO:K19745	acrylyl-CoA reductase (NADPH) [EC:1.3.1.-] (acuI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
