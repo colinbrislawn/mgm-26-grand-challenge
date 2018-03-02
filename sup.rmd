@@ -1,0 +1,224 @@
+---
+title: "MGM 26 - Summarize JGI data from IMG"
+author: "Colin J. Brislawn"
+output: html_document
+---
+
+DOE, Joint Genome Institute, Microbial Genomics and Metagenomics Workshops (MGM-26).
+
+Main data set:
+ - GOLD Study ID: [Gs0060780](https://gold.jgi.doe.gov/study?id=Gs0060780)
+ - GOLD Analysis Projects from [Gs0060780](https://gold.jgi.doe.gov/analysis_projects?Study.GOLD%20Study%20ID=Gs0060780) (28 in total).
+
+
+### Setup:
+```{r setup, include=F}
+library(checkpoint)
+library("rmarkdown")
+checkpoint("2016-08-01")
+
+library("ggplot2")
+#library("phyloseq")
+library("RColorBrewer")
+#library("viridis")
+#library("scales")
+#library("cowplot")
+library("vegan")
+library("dplyr")
+library("tidyr")
+library("broom")
+library("knitr")
+
+#packageVersion('phyloseq')
+theme_set(theme_bw())
+set.seed(711)
+knitr::opts_chunk$set(
+  cache=TRUE
+  , dev = c("png", "pdf")
+  )
+
+```
+
+
+### Import data
+
+
+```{r importdata}
+full.names <- read.table("data_img_exports/meta_from_IMG.xls", header = 1, sep = "\t")
+
+t1 <- read.table("data_img_exports/Cog_crsp.xls", header = 1, sep = "\t") %>%
+  mutate(annotation = "COG CRISPR")
+t2 <- read.table("data_img_exports/Kegg_Carbon.xls", header = 1, sep = "\t") %>%
+  mutate(annotation = "KEGG Carbon")
+t3 <- read.table("data_img_exports/Kegg_Nitrogen.xls", header = 1, sep = "\t") %>%
+  mutate(annotation = "KEGG Nitrogen")
+t4 <- read.table("data_img_exports/pfam_c_n.xls", header = 1, sep = "\t") %>%
+  mutate(annotation = "Pfam Carbon and Nitrogen")
+
+
+all <-  rbind(t1, t2, t4,
+              select(t3, -c(Soi.mic.Vet.3300001139..MER.FS...assembled.,
+                            Soi.mic.Sws.2067725003..MER.FS...assembled.)))
+
+all.rename <-
+  all %>% gather(key = "Sample", value = "count", 3:29) %>%
+  separate(Sample,c("soil", "mic", "type", "taxon_oid",
+                    "asdf", "mer", "fs", "empty", "empty2", "assembeled"), "\\.", extra = "drop") %>%
+  select(-c(soil, mic, type, asdf, mer, fs, empty, empty2, assembeled))
+
+
+
+# Merge with metadata
+all.named <- all.rename %>% merge(full.names)
+
+# normalize each annotation type by total number of that annotation
+all.named <- 
+  rbind(
+    all.named %>% filter(annotation == "COG CRISPR") %>% mutate(normcount = count/COG.Count.....assembled)
+    ,
+    all.named %>% filter(annotation == "KEGG Carbon") %>% mutate(normcount = count/KEGG.Count.....assembled)
+    ,
+    all.named %>% filter(annotation == "KEGG Nitrogen") %>%  mutate(normcount = count/KEGG.Count.....assembled)
+    ,
+    all.named %>% filter(annotation == "Pfam Carbon and Nitrogen") %>%  mutate(normcount = count/Pfam.Count.....assembled)
+  )
+
+
+
+# export the 4 data files with their new names
+all.named %>% filter(annotation == "COG CRISPR") %>% select(StateVegNum, normcount, Function.ID, Name) %>%
+  spread(key = StateVegNum, value = normcount) %>%
+  write.table("output/Cog_crsp.tsv", F, F, "\t", row.names = F, col.names = T)
+
+all.named %>% filter(annotation == "KEGG Carbon") %>% select(StateVegNum, normcount, Function.ID, Name) %>%
+  spread(key = StateVegNum, value = normcount) %>%
+  write.table("output/Kegg_Carbon.tsv", F, F, "\t", row.names = F, col.names = T)
+
+all.named %>% filter(annotation == "KEGG Nitrogen") %>% select(StateVegNum, normcount, Function.ID, Name) %>%
+  spread(key = StateVegNum, value = normcount) %>%
+  write.table("output/Kegg_Nitrogen.tsv", F, F, "\t", row.names = F, col.names = T)
+
+all.named %>% filter(annotation == "Pfam Carbon and Nitrogen") %>% select(StateVegNum, normcount, Function.ID, Name) %>%
+  spread(key = StateVegNum, value = normcount) %>%
+  write.table("output/pfam_c_n.tsv", F, F, "\t", row.names = F, col.names = T)
+
+
+#no_meta %>% psmelt %>% write.table("otus_melt_tax.tsv", F, F, "\t", row.names = F, col.names = T)
+
+```
+
+
+```{r rename-tax, include=F, eval=F}
+tax <- read.csv("data_img_exports/Phylo_Dist_Filtered.csv", header = T)
+
+tax.rename <-
+  tax %>% gather(key = "Sample", value = "count", 4:23) %>%
+  separate(Sample,c("soil", "mic", "type", "taxon_oid",
+                    "asdf", "mer", "fs", "empty", "empty2", "assembeled"), "\\.", extra = "drop") %>%
+  select(-c(soil, mic, type, asdf, mer, fs, empty, empty2, assembeled))
+
+
+
+# Merge with metadata
+taxa.named <- tax.rename %>% merge(full.names, by = "taxon_oid")
+
+taxa.named %>% select(StateVegNum, count, Phylum, Domain.x) %>%
+  spread(key = StateVegNum, value = count) %>%
+  write.table("output/Phylo_Dist_renamed.tsv", F, F, "\t", row.names = F, col.names = T)
+
+
+```
+
+
+## Compare counts between groups
+
+```{r normalize-and-test, fig.height=8, fig.width=8}
+
+all.named %>% filter(State == "Iowa", annotation == "COG CRISPR", Function.ID == "COG1203") %>%
+  t.test(count ~ Veg, data = .) %>% tidy
+# replicate in excel using =TTEST(C2:J2, K2:Q2, 2, 3) 
+# in other words...        =TTEST(corn, NativeP, 2, 3)
+
+
+# Based on sample compairson by Ryan, these functions look similar between States
+# so we will focus on differences between land use / vegitation
+allTtests <- all.named %>% group_by(Name, annotation, Function.ID) %>% do(tidy(t.test(normcount ~ Veg, data = .)))
+
+allTtests %>% head
+
+allTtests %>% filter(p.value < 0.05) %>%
+  ggplot(aes(x = Name, y = p.value)) + geom_point() +
+  facet_grid(annotation~., space = "free", scales = "free") +
+  coord_flip() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5), 
+        strip.background = element_blank(), strip.text.y =  element_text(angle = 0))
+
+
+# Calculate means beween groups, and enrichment between them!
+all.means <- all.named %>% group_by(Name, State, annotation, Function.ID, Veg) %>% summarise(meanNcount = mean(normcount, na.rm = T))
+all.means %>% head
+
+all.enrichment <- all.means %>% spread(Veg, meanNcount) %>%
+  mutate(upinCorn = 2^(Corn / `Native Prairie`), upinPrairie = 2^(`Native Prairie` / Corn))
+
+```
+
+
+```{r graph-cornVSprarie-upincorn, fig.height=6, fig.width=10}
+  
+all.enrichment %>%
+  filter(upinCorn > 2000 & upinCorn < 2000000000000) %>%
+  ungroup %>% select(1,2,4,7) %>% arrange(-upinCorn) %>% kable
+
+all.enrichment %>%
+  filter(upinCorn > 30 & upinCorn <= 2000) %>% 
+  ggplot(aes(x = Name, y = upinCorn, fill = upinCorn)) +
+  geom_col() +
+  coord_flip() +
+  labs(y = "Functions enriched in Corn Soil") +
+  facet_grid(annotation + State~., space = "free", scales = "free") +
+    theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5), 
+        strip.background = element_blank(), strip.text.y =  element_text(angle = 0),
+        legend.position = "none", axis.title.y = element_blank())
+
+
+all.enrichment %>%
+  filter(upinCorn > 30 & upinCorn < 2000000000000) %>%
+  ungroup() %>% select(Function.ID) %>% kable()
+
+```
+
+
+
+```{r graph-cornVSprarie-upinPrairie, fig.height=5, fig.width=10}
+  
+all.enrichment %>%
+  filter(upinPrairie > 2000 & upinPrairie < 2000000000000) %>%
+  ungroup %>% select(1,2,4,7) %>% arrange(-upinCorn) %>% kable
+
+all.enrichment %>%
+  filter(upinPrairie > 30 & upinPrairie <= 2000) %>% 
+  ggplot(aes(x = Name, y = upinPrairie, fill = upinPrairie)) +
+  geom_col() +
+  coord_flip() +
+  labs(y = "Functions enriched in Native Prairie Soil") +
+  facet_grid(annotation + State~., space = "free", scales = "free") +
+    theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5), 
+        strip.background = element_blank(), strip.text.y =  element_text(angle = 0),
+        legend.position = "none", axis.title.y = element_blank())
+
+
+all.enrichment %>%
+  filter(upinPrairie > 30 & upinPrairie < 2000000000000) %>%
+  ungroup() %>% select(Function.ID) %>% kable()
+
+```
+
+
+```{r compare-up-both-ways, include=T, eval=T}
+all.enrichment %>% gather("type", "upvalue", 7:8) %>%
+  filter(upvalue < 20000000) %>%
+  ggplot(aes(x = upvalue, color = annotation)) + geom_density() +
+  scale_x_log10()
+
+```
